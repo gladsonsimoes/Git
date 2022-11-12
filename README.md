@@ -1,7 +1,7 @@
 # Git_Commands
 Alguns comandos essenciais do Git
 
-
+<a href="#ComandoPasta">Comando de Pastas</a>
 
 
 Colocar o email:
@@ -34,7 +34,8 @@ Remover o nickname:
 git config –global –unset user.email
 ~~~
           
- —---------------------------------------------------------------------------------------
+----
+<a name="ComandoPasta">
 Comandos de Pasta
 
 listar as pastas:
@@ -56,7 +57,7 @@ Ver pasta oculta:
 ~~~git
 ls -a
 ~~~
-
+</a>
 ---- 
 
 Iniciar um arquivo git:
