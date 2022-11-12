@@ -5,16 +5,16 @@ Alguns comandos essenciais do Git
 
 <h2 align="center"> Configurar Usuário </h2>
 
-Colocar o email:
+### Colocar o email:
 
 ~~~git
-git config –global user.email “seuemail@exemple.com”
+git config -–global user.email “seuemail@exemple.com”
 ~~~
 
-Colocar o name:
+### Colocar o name:
 
 ~~~git
-git config –global user.name seunick
+git config -–global user.name seunickDoGithub
 ~~~
 
 Ver o email e o nickname:
