@@ -3,6 +3,7 @@ Alguns comandos essenciais do Git
 
 <a href="#ComandoPasta">Comando de Pastas</a>
 
+<h2 align="center"> Configurar Usuário </h2>
 
 Colocar o email:
 
@@ -19,7 +20,7 @@ git config –global user.name seunick
 Ver o email e o nickname:
 
 ~~~git
-git config –list
+git config –-list
 ~~~
 
 Remover o email:
@@ -36,7 +37,8 @@ git config –global –unset user.email
           
 ----
 <a name="ComandoPasta">
-Comandos de Pasta
+          
+<h2 align="center"> Comandos de Pasta </h2>
 
 listar as pastas:
 ~~~git       
