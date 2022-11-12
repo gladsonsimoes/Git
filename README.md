@@ -23,6 +23,8 @@ Ver o email e o nickname:
 git config –-list
 ~~~
 
+### Para remover usuário e email:
+
 Remover o email:
 
 ~~~git
