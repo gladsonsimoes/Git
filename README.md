@@ -25,17 +25,17 @@ git config –-list
 
 ### Para remover usuário e email:
 
-Remover o email:
-
+#### Remover o email:
 ~~~git
-git config –global –unset user.email
+git config -–global -–unset user.email 
 ~~~
+Obs: colocar o email depois do user.email!
 
-Remover o nickname:
-
+#### Remover o nickname:
 ~~~git
-git config –global –unset user.email
+git config -–global -–unset user.email
 ~~~
+Obs: colocar o nickname depois do user.name!
           
 ----
 <a name="ComandoPasta">
