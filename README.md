@@ -86,3 +86,18 @@ realizar um commit o arquivo para o github:
 - git push origin main
 ~~~
 
+----
+Para contribuir debes:
+
+Hacer un Fork de este proyecto para obtenerlo en tu cuenta de GitHub. https://github.com/avasquez-ve/gitCommands.git
+
+Hacer referencia desde tu equipo al repositorio ubicado en tu cuenta de GitHub: HTTPS
+~~~git
+git clone https://github.com/[tu_usuario]/gitCommands.git
+~~~
+
+SSH
+
+~~~git
+git clone  git@github.com:[tu_usuario]/gitCommands.git
+~~~
