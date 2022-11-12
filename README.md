@@ -1,6 +1,9 @@
 # Git_Commands
 Alguns comandos essenciais do Git
 
+
+
+
 Colocar o email:
 
 ~~~git
@@ -32,20 +35,19 @@ git config –global –unset user.email
 ~~~
           
  —---------------------------------------------------------------------------------------
+Comandos de Pasta
 
 listar as pastas:
 ~~~git       
 ls
 ~~~
 
-abrir a pasta
-       
+abrir a pasta    
 ~~~git       
 cd nomedapasta/
 ~~~
 
 criar pasta :
-
 ~~~git
 mkdir nomedapastaparacriar
 ~~~
@@ -55,12 +57,12 @@ Ver pasta oculta:
 ls -a
 ~~~
 
+---- 
+
 Iniciar um arquivo git:
 ~~~git          
 - git init
 ~~~
-
-
 
 O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 
