@@ -88,6 +88,8 @@ realizar um commit o arquivo para o github:
 - git commit -m “mensagem do commit”
 ~~~
 
+Empurrar para o pasta main
+
 ~~~git
 - git push origin main
 ~~~
