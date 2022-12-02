@@ -37,7 +37,7 @@ Obs: colocar o email depois do user.email!
 
 #### Remover o nickname:
 ~~~git
-git config -–global -–unset user.email
+git config -–global -–unset user.name
 ~~~
 Obs: colocar o nickname depois do user.name!
           
