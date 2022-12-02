@@ -25,9 +25,9 @@ Obs: colocar o email depois do user.email!
 #### Colocar o name:
 
 ~~~git
-git config -–global user.name seunickDoGithub
+git config -–global user.name 
 ~~~
-Obs: colocar o nickname depois do user.name!
+Obs: colocar o nickname do github depois do user.name!
 
 ### Para remover usuário e email:
 
