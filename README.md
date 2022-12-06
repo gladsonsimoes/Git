@@ -74,13 +74,13 @@ Iniciar um arquivo git:
 ~~~git          
 - git init
 ~~~
-
 O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 
+
+Adi
 ~~~git
 - git add
 ~~~
-
 O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).
 
 
@@ -97,11 +97,10 @@ Empurrar para o pasta main
 ~~~
 
 ----
-Para contribuir debes:
 
-Hacer un Fork de este proyecto para obtenerlo en tu cuenta de GitHub. https://github.com/avasquez-ve/gitCommands.git
+Hacer referencia desde tu equipo al repositorio ubicado en tu cuenta de GitHub: <br><br>
 
-Hacer referencia desde tu equipo al repositorio ubicado en tu cuenta de GitHub: HTTPS
+HTTPS
 ~~~git
 git clone https://github.com/[tu_usuario]/gitCommands.git
 ~~~
