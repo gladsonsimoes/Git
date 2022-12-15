@@ -1,5 +1,5 @@
 <div>
-          <h1> Git Commands <img align="right" width="50px"  src="https://user-images.githubusercontent.com/99969693/207872892-7bb41665-dedf-4a4b-8351-5aafb5ff0003.png"></h1>
+          <h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1>
 </div>
 
 Alguns comandos essenciais do Git 
@@ -95,16 +95,20 @@ git clone <https://link-com-o-nome-do-repositório>
 <a name="criarRepositorio">
 
 <h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
-  
-##### antes de iniciar abra o diretorio dentro dele irá ser inicializado!
+<div>
+   <h5> antes de iniciar abra o diretorio dentro dele irá ser inicializado! <img src="img/icons8-general-warning-sign-48.png" width="20px> </h5> <br>
+</div>
 
   
-#### O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+<h4> O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio. </h4>
+
 ~~~git          
 git init
 ~~~
 
-#### Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando:
+
+<h4> Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando: </h4>
+
 ~~~git          
 git init <O nome do seu repositório>
 ~~~
