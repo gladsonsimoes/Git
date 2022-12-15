@@ -132,13 +132,13 @@ git add
 realizar um commit o arquivo para o github:
 
 ~~~git
-- git commit -m “mensagem do commit”
+git commit -m “mensagem do commit”
 ~~~
 
 ### Empurrar para o pasta main
 
 ~~~git
-- git push origin main
+git push origin main
 ~~~
 
 ### Criar Branch (ramificação)
