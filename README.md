@@ -1,5 +1,8 @@
-# Git_Commands
-Alguns comandos essenciais do Git
+<div>
+          <h1> Git Commands <img align="right" width="50px"  src="https://user-images.githubusercontent.com/99969693/207872892-7bb41665-dedf-4a4b-8351-5aafb5ff0003.png"></h1>
+</div>
+
+Alguns comandos essenciais do Git 
 
 - <a href="#clonar"> Clonar um Repositório </a><br>
 - <a href="#criarRepositorio"> Criar um repositório novo no git </a><br>
