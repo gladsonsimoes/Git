@@ -1,8 +1,8 @@
 # Git_Commands
 Alguns comandos essenciais do Git
 
- <a href="#ComandoPasta"> Comando de Pastas</a> <br>
-<a href="#criarRepositorioGit"> Criar um repositório Git </a><br>
+- <a href="#ComandoPasta"> Comando de Pastas</a> <br>
+- <a href="#criarRepositorioGit"> Criar um repositório Git </a><br>
 
 <h2 align="center"> Configurar Usuário </h2>
 
