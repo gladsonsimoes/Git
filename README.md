@@ -2,7 +2,7 @@
 Alguns comandos essenciais do Git
 
 - <a href="#ComandoPasta"> Comando de Pastas</a> <br>
-- <a href="#criarRepositorioGit"> Criar um repositório Git </a><br>
+- <a href="#criarRepositorio"> Criar um repositório Git </a><br>
 
 <h2 align="center"> Configurar Usuário </h2>
 
@@ -73,7 +73,7 @@ ls -a
 
 <hr>
 
-<a name="criarRepositorioGit"
+<a name="criarRepositorio"
 
 ## Iniciar um arquivo git:
 ~~~git          
