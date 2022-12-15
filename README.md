@@ -70,7 +70,9 @@ ls -a
 </a>
 ---- 
 
-Iniciar um arquivo git:
+<hr>
+
+## Iniciar um arquivo git:
 ~~~git          
 - git init
 ~~~
