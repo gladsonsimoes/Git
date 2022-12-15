@@ -101,7 +101,10 @@ O comando git init cria um novo repositório do Git. Ele pode ser usado para con
 
 Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando:
 
+~~~git          
 $ git init <O nome do seu repositório>
+~~~
+          
 </a>
 
 ### adicionar 
