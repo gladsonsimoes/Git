@@ -122,5 +122,27 @@ realizar um commit o arquivo para o github:
           
 ~~~git
 git branch <nome-da-branch>
-~~~          
+~~~    
 
+#### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
+          
+~~~git          
+git push -u <local-remoto> <nome-da-branch>          
+~~~
+          
+#### Como ver as branches:         
+          
+~~~git          
+git branch ou git branch --list  
+~~~
+          
+#### Como excluir uma branch:         
+          
+~~~git
+git branch -d <nome-da-branch>
+~~~
+          
+### 
+          
+       
+          
