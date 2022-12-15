@@ -95,12 +95,13 @@ git clone <https://link-com-o-nome-do-repositório>
 <a name="criarRepositorio">
 
 <h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
-<div>
-   <h5> antes de iniciar abra o diretorio dentro dele irá ser inicializado! <img src="img/icons8-general-warning-sign-48.png" width="20px> </h5> <br>
-</div>
+<div align="center">
+        
+   <h5> <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""> antes de iniciar abra o diretorio e dentro dele que irá ser inicializado!  <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""></h5> 
+          </div>
 
   
-<h4> O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio. </h4>
+#### Criar um novo repositório do Git. 
 
 ~~~git          
 git init
