@@ -75,13 +75,16 @@ ls -a
 <hr>
 <br><br>
 
+<br>
 <a name="clonar">
-Para clonar um repositório 
+          
+## clonar um repositório do github
 
-HTTPS
+No metodo HTTPS:
 ~~~git
 gir clone <https://link-com-o-nome-do-repositório>
 ~~~
+          
 </a>
 
 <a name="criarRepositorio">
