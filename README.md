@@ -98,15 +98,9 @@ Empurrar para o pasta main
 
 ----
 
-Hacer referencia desde tu equipo al repositorio ubicado en tu cuenta de GitHub: <br><br>
+Para clonar um repositório
 
 HTTPS
 ~~~git
-git clone https://github.com/[tu_usuario]/gitCommands.git
-~~~
-
-SSH
-
-~~~git
-git clone  git@github.com:[tu_usuario]/gitCommands.git
+gir clone <link do https>
 ~~~
