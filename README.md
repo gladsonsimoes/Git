@@ -1,9 +1,10 @@
 # Git_Commands
 Alguns comandos essenciais do Git
 
-- <a href="#ComandoPasta"> Comando de Pastas</a> <br>
-- <a href="#criarRepositorio"> Criar um repositório novo no Git </a><br>
 - <a href="#clonar"> Clonar um Repositório </a><br>
+- <a href="#criarRepositorio"> Criar um repositório novo no git </a><br>
+- <a href="#ComandoPasta"> Comando de Pastas</a> <br>
+
 
 <h2 align="center"> Configurar Usuário </h2>
 
