@@ -96,20 +96,33 @@ git clone <https://link-com-o-nome-do-repositório>
 O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 
 ~~~git          
-- git init
+git init
 ~~~
 
 Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando:
 
 ~~~git          
-$ git init <O nome do seu repositório>
+git init <O nome do seu repositório>
 ~~~
           
 </a>
 
 ### adicionar 
+          
+Esse comando Git adiciona os arquivos especificados de código ao seu repositório, sejam arquivos novos ou arquivos anteriores que foram alterados. Oferece diferentes possibilidades de sintaxe.
+
+esse comando abaixo irá adicionar o arquivo em específico ao repositório          
+~~~git          
+git add <seu_arquivo> 
+~~~
+          
+esse comando irá adicionar todos os arquivos novos e/ou modificados ao repositório
+~~~git          
+git add * 
+~~~
+          
 ~~~git
-- git add
+git add
 ~~~
 O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).
 
