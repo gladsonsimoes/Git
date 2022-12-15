@@ -56,17 +56,17 @@ listar as pastas:
 ls
 ~~~
 
-abrir a pasta    
+abrir o diretório   
 ~~~git       
 cd nomedapasta/
 ~~~
 
-criar pasta :
+criar diretório :
 ~~~git
 mkdir nomedapastaparacriar
 ~~~
 
-Ver pasta oculta:
+Ver diretório oculto:
 ~~~git
 ls -a
 ~~~
@@ -93,14 +93,15 @@ git clone <https://link-com-o-nome-do-repositório>
 
 <h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
   
-O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+##### antes de iniciar abra o diretorio dentro dele irá ser inicializado!
 
+  
+#### O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 ~~~git          
 git init
 ~~~
 
-Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando:
-
+#### Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando:
 ~~~git          
 git init <O nome do seu repositório>
 ~~~
@@ -120,11 +121,12 @@ esse comando irá adicionar todos os arquivos novos e/ou modificados ao reposit�
 ~~~git          
 git add * 
 ~~~
-          
+  
+O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).  
 ~~~git
 git add
 ~~~
-O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).
+
 
 
 realizar um commit o arquivo para o github:
