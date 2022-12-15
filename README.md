@@ -73,7 +73,7 @@ ls -a
 
 <hr>
 
-<a name="criarRepositorio"
+<a name="criarRepositorio">
 
 ## Iniciar um arquivo git:
 ~~~git          
