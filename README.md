@@ -76,7 +76,7 @@ ls -a
 
 <a name="criarRepositorio">
 
-## Iniciar um arquivo git:
+## Iniciar e Criar um arquivo git:
 ~~~git          
 - git init
 ~~~
