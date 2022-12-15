@@ -2,7 +2,8 @@
 Alguns comandos essenciais do Git
 
 - <a href="#ComandoPasta"> Comando de Pastas</a> <br>
-- <a href="#criarRepositorio"> Criar um repositório Git </a><br>
+- <a href="#criarRepositorio"> Criar um repositório novo no Git </a><br>
+- <a href="#clonar"> Clonar um Repositório </a><br>
 
 <h2 align="center"> Configurar Usuário </h2>
 
@@ -74,6 +75,15 @@ ls -a
 <hr>
 <br><br>
 
+<a name="clonar">
+Para clonar um repositório 
+
+HTTPS
+~~~git
+gir clone <https://link-com-o-nome-do-repositório>
+~~~
+</a>
+
 <a name="criarRepositorio">
 
 ## Iniciar e Criar um arquivo git:
@@ -103,11 +113,4 @@ Empurrar para o pasta main
 - git push origin main
 ~~~
 
-----
 
-Para clonar um repositório
-
-HTTPS
-~~~git
-gir clone <link do https>
-~~~
