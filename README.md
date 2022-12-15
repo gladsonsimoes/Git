@@ -89,15 +89,15 @@ gir clone <https://link-com-o-nome-do-repositório>
 
 <a name="criarRepositorio">
 
-## Iniciar e Criar um arquivo git:
+## Iniciar e Criar um arquivo novo no git:
+          
 ~~~git          
 - git init
 ~~~
 O comando git init cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
-
 </a>
 
-Adi
+### adicionar 
 ~~~git
 - git add
 ~~~
@@ -110,10 +110,15 @@ realizar um commit o arquivo para o github:
 - git commit -m “mensagem do commit”
 ~~~
 
-Empurrar para o pasta main
+### Empurrar para o pasta main
 
 ~~~git
 - git push origin main
 ~~~
 
+### Criar Branch (ramificação)
+          
+~~~git
+git branch <nome-da-branch>
+~~~          
 
