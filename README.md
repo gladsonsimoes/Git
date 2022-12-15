@@ -79,18 +79,18 @@ ls -a
 <br>
 <a name="clonar">
           
-## clonar um repositório do github
+          <h2 align="center"> clonar um repositório do github </h2>
 
 No metodo HTTPS:
 ~~~git
-gir clone <https://link-com-o-nome-do-repositório>
+git clone <https://link-com-o-nome-do-repositório>
 ~~~
           
 </a>
 
 <a name="criarRepositorio">
 
-## Iniciar e Criar um arquivo novo no git:
+          <h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
           
 ~~~git          
 - git init
