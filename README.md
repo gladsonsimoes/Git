@@ -130,7 +130,7 @@ git add
 
 <br><br>
 <h2 align="center"> Commit </h2>  
-realizar um commit o arquivo para o github:
+realizar um commit do arquivo
 
 ~~~git
 git commit -m “mensagem do commit”
@@ -139,7 +139,7 @@ git commit -m “mensagem do commit”
 <br> 
 <h2 align="center"> Push </h2>  
   
-Empurrar o commit realizado:
+Empurrar o commit realizado para o github:
 ~~~
 git push
 ~~~
