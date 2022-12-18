@@ -8,8 +8,12 @@ Alguns comandos essenciais do Git
 - <a href="#criarRepositorio"> Criar um repositório novo no git </a><br>
 - <a href="#ComandoPasta"> Comando de Pastas</a> <br>
 
+<h3 align="center"> Atenção pelos testes feitos no git recomendo escrever manualmente para não ter erro </h3>
 
-<h2 align="center"> Configurar Usuário </h2>
+<div align="center">
+  <details>
+        <summary> <h2> Configurar Usuário </h2> </summary>
+
 
 ### Ver o email e o nickname:
 Para ver as configurações do Git digite o comando abaixo
@@ -46,12 +50,14 @@ Obs: colocar o email depois do user.email!
 git config -–global -–unset user.name
 ~~~
 Obs: colocar o nickname depois do user.name!
-          
+          </details>
+          </div>
 ----
-<a name="ComandoPasta">
-          
-<h2 align="center"> Comandos de Pasta </h2>
 
+<div align="center">
+  <details>
+        <summary> <h2> Comandos para diretório </h2> </summary>          
+<div align="left">
 listar as pastas:
 ~~~git       
 ls
@@ -71,7 +77,9 @@ Ver diretório oculto:
 ~~~git
 ls -a
 ~~~
-</a>
+            </div>
+  </details>
+</div>
 ---- 
 
 <hr>
@@ -84,7 +92,7 @@ ls -a
 
 No metodo HTTPS:
 ~~~git
-git clone <https://link-com-o-nome-do-repositório>
+git clone https://link-com-o-nome-do-repositório
 ~~~         
 </a>
           
