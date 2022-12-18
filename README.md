@@ -89,7 +89,7 @@ Summary
 <h2 align="center"> Clonar um repositório do github </h2>
 
 HTTPS:
-~~~git
+~~~
 git clone https://linkrepository
 ~~~         
 
@@ -98,7 +98,7 @@ git clone https://linkrepository
         
 #### Criar um novo repositório do Git. (abra dentro do diretório!!) 
 
-~~~git          
+~~~          
 git init
 ~~~
 
