@@ -88,14 +88,15 @@ Summary
 <!-- clonar e criar -->
 <a name="clonarECriar">
           
-<h2> clonar um repositório do github </h2>
+<h2 align="center"> Clonar um repositório do github </h2>
 
-No metodo HTTPS:
+HTTPS:
 ~~~git
 git clone https://link-com-o-nome-do-repositório
 ~~~         
-                    
-<h2 align> Iniciar e Criar um arquivo novo no git: </h2>
+
+<br><br>          
+<h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
         
 #### Criar um novo repositório do Git. (abra dentro do diretório!!) 
 
