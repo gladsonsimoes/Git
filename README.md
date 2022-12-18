@@ -75,6 +75,7 @@ ls -a
 </div>
 </details>
 </div>
+
 <hr>
 
 Summary 
@@ -97,11 +98,7 @@ git clone https://link-com-o-nome-do-repositório
 <h2 align> Iniciar e Criar um arquivo novo no git: </h2>
 <div align="center">
         
-   <h5> <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""> antes de iniciar abra o diretorio e dentro dele que irá ser inicializado!  <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""></h5> 
-          </div>
-
-  
-#### Criar um novo repositório do Git. 
+#### Criar um novo repositório do Git. (abra dentro do diretório!!) 
 
 ~~~git          
 git init
