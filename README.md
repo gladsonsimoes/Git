@@ -111,11 +111,11 @@ git init <O nome do seu repositório local>
 </a>
 
 <br><br> 
-<h2 align="center"> Adicionar arquivos </h2>         
+<h2 align="center"> Add files </h2>         
 
-Adicionar o arquivo em específico ao repositório:          
+Adicionar o arquivo específico ao repositório:          
 ~~~git          
-git add <seu_arquivo> 
+git add seu_arquivo
 ~~~
           
 Adicionar todos os arquivos novos e/ou modificados ao repositório:
@@ -151,7 +151,8 @@ git push origin main
 ~~~ 
 -->
 
-### Criar Branch (ramificação)
+<br>
+  <h2 align="center"> Branch </h2>
           
 ~~~git
 git branch <nome-da-branch>
