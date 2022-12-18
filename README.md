@@ -105,7 +105,7 @@ git init
 <h4> Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando: </h4>
 
 ~~~git          
-git init <O nome do seu repositório>
+git init <O nome do seu repositório local>
 ~~~
           
 </a>
