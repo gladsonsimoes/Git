@@ -96,7 +96,6 @@ git clone https://link-com-o-nome-do-repositório
 ~~~         
                     
 <h2 align> Iniciar e Criar um arquivo novo no git: </h2>
-<div align="center">
         
 #### Criar um novo repositório do Git. (abra dentro do diretório!!) 
 
