@@ -2,59 +2,52 @@
           <h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1>
 </div>
 
-Alguns comandos essenciais do Git 
 
-- <a href="#clonar"> Clonar um Repositório </a><br>
-- <a href="#criarRepositorio"> Criar um repositório novo no git </a><br>
-- <a href="#ComandoPasta"> Comando de Pastas</a> <br>
+<h3 align="center"> <img src="img/icons8-general-warning-sign-48.png" width="40px"> Atenção pelos testes feitos no git, recomendo escrever manualmente para não ter erro!! </h3>
+<hr>
 
-<h3 align="center"> Atenção pelos testes feitos no git recomendo escrever manualmente para não ter erro </h3>
 
-<div align="center">
+<div align="">
   <details>
         <summary> <h4> Configurar Usuário </h2> </summary>
 
-
-### Ver o email e o nickname:
 Para ver as configurações do Git digite o comando abaixo
 
-~~~git
+~~~
 git config –-list
 ~~~
 
 ----
-### Para Adicionar Usuário e Email:
 
-#### Colocar o email:
+#### add email:
 
-~~~git
+~~~
 git config -–global user.email youremail@email.com
 ~~~
 
-#### Colocar o name:
+#### add username:
 
-~~~git
+~~~
 git config -–global user.name youruserNameGithub
 ~~~
 
 ### Para remover usuário e email:
 
 #### Remover o email:
-~~~git
-git config -–global -–unset user.email 
 ~~~
-Obs: colocar o email depois do user.email!
+git config -–global -–unset user.email yourEmail@email.com
+~~~
 
 #### Remover o nickname:
-~~~git
-git config -–global -–unset user.name
 ~~~
-Obs: colocar o nickname depois do user.name!
-          </details>
-          </div>
-----
+git config -–global -–unset user.name yourUsername
+~~~
 
-<div align="center">
+</details>
+</div>
+
+
+<div align="">
   <details>
         <summary> <h4> Comandos para diretório </h4> </summary>          
 <div align="left">
@@ -83,10 +76,16 @@ ls -a
 </details>
 </div>
 <hr>
-<br><br>
+
+Summary 
+
+- <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
 
 <br>
-<a name="clonar">
+
+<br>
+<!-- clonar e criar -->
+<a name="clonarECriar">
           
 <h2 align="center"> clonar um repositório do github </h2>
 
@@ -94,12 +93,9 @@ No metodo HTTPS:
 ~~~git
 git clone https://link-com-o-nome-do-repositório
 ~~~         
-</a>
           
 <hr>
           
-<a name="criarRepositorio">
-
 <h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
 <div align="center">
         
