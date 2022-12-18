@@ -24,16 +24,14 @@ git config –-list
 #### Colocar o email:
 
 ~~~git
-git config -–global user.email 
+git config -–global user.email youremail@email.com
 ~~~
-Obs: colocar o email depois do user.email!
 
 #### Colocar o name:
 
 ~~~git
-git config -–global user.name 
+git config -–global user.name youruserNameGithub
 ~~~
-Obs: colocar o nickname do github depois do user.name!
 
 ### Para remover usuário e email:
 
