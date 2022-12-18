@@ -112,14 +112,13 @@ git init <O nome do seu repositório>
 
 <br><br> 
 <h2 align="center"> Adicionar arquivos </h2>         
-Esse comando Git adiciona os arquivos especificados de código ao seu repositório, sejam arquivos novos ou arquivos anteriores que foram alterados. Oferece diferentes possibilidades de sintaxe.
 
-adicionar o arquivo em específico ao repositório:          
+Adicionar o arquivo em específico ao repositório:          
 ~~~git          
 git add <seu_arquivo> 
 ~~~
           
-adicionar todos os arquivos novos e/ou modificados ao repositório:
+Adicionar todos os arquivos novos e/ou modificados ao repositório:
 ~~~git          
 git add * 
 ~~~
