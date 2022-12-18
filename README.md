@@ -139,7 +139,7 @@ git commit -m “mensagem do commit”
 <br> 
 <h2 align="center"> Push </h2>  
   
-Empurrar o commit realizado para o github:
+Envia as alterações para o repositório remoto (branch atual):
 ~~~
 git push
 ~~~
