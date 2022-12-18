@@ -1,7 +1,6 @@
 <div><h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-
-<h4 align="center"> <img src="img/icons8-general-warning-sign-48.png" align="middle" width="30px"> Atenção pelos testes feitos no git, recomendo escrever manualmente para não ter erro!!</h4>
+<p>Comandos importantes do git , sugiro para que não haja erro escreva manualmente! </p>
 <hr>
 
 
