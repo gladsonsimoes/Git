@@ -128,13 +128,18 @@ git add *
 git add
 ~~~ -->
 
+<br><br>
+<h2 align="center"> Commit </h2>  
 realizar um commit o arquivo para o github:
 
 ~~~git
 git commit -m “mensagem do commit”
 ~~~
 
-#### Empurrar o commit
+<br> 
+<h2 align="center"> Push </h2>  
+  
+Empurrar o commit realizado:
 ~~~
 git push
 ~~~
