@@ -123,12 +123,10 @@ Adicionar todos os arquivos novos e/ou modificados ao repositório:
 git add * 
 ~~~
   
-O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).  
+<!-- O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).  
 ~~~git
 git add
-~~~
-
-
+~~~ -->
 
 realizar um commit o arquivo para o github:
 
@@ -136,11 +134,17 @@ realizar um commit o arquivo para o github:
 git commit -m “mensagem do commit”
 ~~~
 
-### Empurrar para o pasta main
+#### Empurrar o commit
+~~~
+git push
+~~~
+
+<!-- ### Empurrar para a branch main
 
 ~~~git
 git push origin main
-~~~
+~~~ 
+-->
 
 ### Criar Branch (ramificação)
           
