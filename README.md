@@ -12,7 +12,7 @@ Alguns comandos essenciais do Git
 
 <div align="center">
   <details>
-        <summary> <h2> Configurar Usuário </h2> </summary>
+        <summary> <h4> Configurar Usuário </h2> </summary>
 
 
 ### Ver o email e o nickname:
@@ -56,8 +56,9 @@ Obs: colocar o nickname depois do user.name!
 
 <div align="center">
   <details>
-        <summary> <h2> Comandos para diretório </h2> </summary>          
+        <summary> <h4> Comandos para diretório </h4> </summary>          
 <div align="left">
+          
 listar as pastas:
 ~~~git       
 ls
@@ -77,11 +78,10 @@ Ver diretório oculto:
 ~~~git
 ls -a
 ~~~
-            </div>
-  </details>
+          
 </div>
----- 
-
+</details>
+</div>
 <hr>
 <br><br>
 
