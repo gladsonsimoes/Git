@@ -92,7 +92,7 @@ Summary
 
 HTTPS:
 ~~~git
-git clone https://link-com-o-nome-do-repositório
+git clone https://linkrepository
 ~~~         
 
 <br><br>          
