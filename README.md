@@ -87,16 +87,14 @@ Summary
 <!-- clonar e criar -->
 <a name="clonarECriar">
           
-<h2 align="center"> clonar um repositório do github </h2>
+<h2> clonar um repositório do github </h2>
 
 No metodo HTTPS:
 ~~~git
 git clone https://link-com-o-nome-do-repositório
 ~~~         
-          
-<hr>
-          
-<h2 align="center"> Iniciar e Criar um arquivo novo no git: </h2>
+                    
+<h2 align> Iniciar e Criar um arquivo novo no git: </h2>
 <div align="center">
         
    <h5> <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""> antes de iniciar abra o diretorio e dentro dele que irá ser inicializado!  <img src="img/icons8-general-warning-sign-48.png"  width="20px" align=""></h5> 
