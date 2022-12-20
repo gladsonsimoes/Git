@@ -115,17 +115,17 @@ git init <O nome do seu repositório local>
 
 Adicionar o arquivo específico ao repositório:          
 ~~~git          
-git add seu_arquivo
+git add arquivoParaAdicionar
 ~~~
           
-Adicionar todos os arquivos novos e/ou modificados ao repositório:
+Adicionar todos os arquivos novos e/ou modificados (inclusive o deletado) ao repositório:
 ~~~git          
 git add * 
 ~~~
   
 <!-- O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).  
 ~~~git
-git add
+git add .
 ~~~ -->
 
 <br><br>
