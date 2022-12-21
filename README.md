@@ -167,7 +167,17 @@ git branch --list
 ~~~
 git branch [nome-da-branch]
 ~~~    
+ 
+#### selecionar uma branch
+~~~  
+git checkout [nome da branch] 
+~~~  
 
+#### voltar para ultima branch
+~~~ 
+git checkout -  
+~~~
+  
 #### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
           
 ~~~git          
