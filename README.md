@@ -178,19 +178,27 @@ git checkout [nome da branch]
 git checkout -  
 ~~~
   
+#### Mesclagem  de uma branch na branch atual
+~~~
+git merge [nome da branch]
+~~~
+
+#### Faz um merge de uma branch em outra branch  
+~~~  
+git merge [source branch] [branch alvo]  
+~~~  
+  
 #### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
           
 ~~~git          
 git push -u <local-remoto> <nome-da-branch>          
 ~~~
                     
-#### Como excluir uma branch:         
+<!-- #### Como excluir uma branch:         
           
 ~~~git
 git branch -d <nome-da-branch>
-~~~
-          
-### 
+~~~ -->
           
        
           
