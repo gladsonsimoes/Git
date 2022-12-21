@@ -153,9 +153,19 @@ git push origin main
 
 <br>
   <h2 align="center"> Branch </h2>
-          
-~~~git
-git branch <nome-da-branch>
+  
+#### Como ver as branches:                  
+~~~      
+git branch  
+~~~
+ou 
+~~~      
+git branch --list
+~~~
+
+#### criar uma nova branch
+~~~
+git branch [nome-da-branch]
 ~~~    
 
 #### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
@@ -163,13 +173,7 @@ git branch <nome-da-branch>
 ~~~git          
 git push -u <local-remoto> <nome-da-branch>          
 ~~~
-          
-#### Como ver as branches:         
-          
-~~~git          
-git branch ou git branch --list  
-~~~
-          
+                    
 #### Como excluir uma branch:         
           
 ~~~git
