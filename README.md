@@ -94,10 +94,6 @@ git push origin [nomeDaBranch]
 ~~~      
 git branch  
 ~~~
-ou 
-~~~      
-git branch --list
-~~~
 
 #### criar uma nova branch
 ~~~
@@ -114,6 +110,9 @@ git checkout [nome da branch]
 git checkout -  
 ~~~
   
+<br>
+  <h2 align="center"> Merge </h2>
+        
 #### Mesclagem  de uma branch na branch atual
 ~~~
 git merge [nome da branch]
@@ -124,11 +123,14 @@ git merge [nome da branch]
 git merge [source branch] [branch alvo]  
 ~~~  
   
-#### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
+        
+<!-- Anotation -->       
+        
+<!-- #### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
           
 ~~~git          
 git push -u <local-remoto> <nome-da-branch>          
-~~~
+~~~ -->
                     
 <!-- #### Como excluir uma branch:         
           
