@@ -4,20 +4,21 @@
 <hr>
 
 <a href="Config&Diretory.md"> Configurar conta e comandos de pasta</a>
-
-
 <hr>
 
 Summary 
 
 - <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
+- <a href="#"> Add files </a><br>
+- <a href="#">
+
 
 <br>
 
 <br>
+
 <!-- clonar e criar -->
-<a name="clonarECriar">
-          
+<a name="clonarECriar">         
 <h2 align="center"> Clonar um repositório do github </h2>
 
 HTTPS:
@@ -56,10 +57,10 @@ Adicionar todos os arquivos novos e/ou modificados (inclusive o deletado) ao rep
 git add * 
 ~~~
   
-<!-- O "git add ." é usado para adicionar arquivos novos e modificados mas não os deletados. Já o "git add *" é usado para adicionar arquivos novos e modificados do diretório atual (Muito semelhante ao comando anterior).  
+Adicionar arquivos novos e modificados mas não os deletados.  
 ~~~git
 git add .
-~~~ -->
+~~~
 
 <br><br>
 <h2 align="center"> Commit </h2>  
@@ -77,12 +78,10 @@ Envia as alterações para o repositório remoto (branch atual):
 git push
 ~~~
 
-<!-- ### Empurrar para a branch main
-
-~~~git
-git push origin main
-~~~ 
--->
+Envia as alterações para o repositório remoto (escolhendo a branch):
+~~~
+git push origin [nomeDaBranch]
+~~~
 
 <br>
   <h2 align="center"> Branch </h2>
