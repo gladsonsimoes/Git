@@ -10,7 +10,9 @@ Summary
 
 - <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
 - <a href="#"> Add files </a><br>
-- <a href="#">
+- <a href="#"> Commit </a><br>
+- <a href="#"> Push </a><br>
+- <a href="#"> Branch </a><br>
 
 
 <br>
