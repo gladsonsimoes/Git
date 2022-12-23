@@ -47,8 +47,9 @@ git init <O nome do seu repositório local>
 </a>
 
 <br><br> 
+<a name="addFiles"></a>
 <h2 align="center"> Add files </h2>  
-<a name="addFiles">
+
 <a href="#"> Inicio </a>
 
 Adicionar o arquivo específico ao repositório:          
@@ -65,7 +66,9 @@ Adicionar arquivos novos e modificados mas não os deletados.
 ~~~git
 git add .
 ~~~
+
 </a>
+
 <br><br>
 <h2 align="center"> Commit </h2>  
 realizar um commit do arquivo
