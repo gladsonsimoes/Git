@@ -9,10 +9,10 @@
 Summary 
 
 - <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
-- <a href="#"> Add files </a><br>
-- <a href="#"> Commit </a><br>
-- <a href="#"> Push </a><br>
-- <a href="#"> Branch </a><br>
+- <a href="#addFiles"> Add files </a><br>
+- <a href="#commit> Commit </a><br>
+- <a href="#push"> Push </a><br>
+- <a href="#branch"> Branch </a><br>
 
 
 <br>
@@ -70,6 +70,7 @@ git add .
 </a>
 
 <br><br>
+<a name="commit">
 <h2 align="center"> Commit </h2>  
 realizar um commit do arquivo
 
@@ -77,6 +78,9 @@ realizar um commit do arquivo
 git commit -m “mensagem do commit”
 ~~~
 
+</a>
+
+<a name="push">
 <br> 
 <h2 align="center"> Push </h2>  
   
@@ -90,6 +94,9 @@ Envia as alterações para o repositório remoto (escolhendo a branch):
 git push origin [nomeDaBranch]
 ~~~
 
+</a>
+
+<a name="branch">
 <br>
   <h2 align="center"> Branch </h2>
   
@@ -113,9 +120,6 @@ git checkout [nome da branch]
 git checkout -  
 ~~~
   
-<br>
-  <h2 align="center"> Merge </h2>
-        
 #### Mesclagem  de uma branch na branch atual
 ~~~
 git merge [nome da branch]
@@ -125,7 +129,7 @@ git merge [nome da branch]
 ~~~  
 git merge [source branch] [branch alvo]  
 ~~~  
-  
+</a>  
         
 <!-- Anotation -->       
         
