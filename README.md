@@ -10,7 +10,7 @@ Summary
 
 - <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
 - <a href="#addFiles"> Add files </a><br>
-- <a href="#commit> Commit </a><br>
+- <a href="#commit"> Commit </a><br>
 - <a href="#push"> Push </a><br>
 - <a href="#branch"> Branch </a><br>
 
@@ -70,7 +70,9 @@ git add .
 </a>
 
 <br><br>
+
 <a name="commit">
+
 <h2 align="center"> Commit </h2>  
 realizar um commit do arquivo
 
