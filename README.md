@@ -62,7 +62,7 @@ Adicionar todos os arquivos novos e/ou modificados (inclusive o deletado) ao rep
 git add * 
 ~~~
   
-Adicionar arquivos novos e modificados mas não os deletados.  
+Adicionar arquivos novos e modificados mas não os deletados. (muito usado para adicionar os arquivos atualizados)
 ~~~git
 git add .
 ~~~
