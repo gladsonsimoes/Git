@@ -86,18 +86,18 @@ git commit -m “mensagem do commit”
 <br> 
 <h2 align="center"> Push </h2>  
   
-Envia as alterações para o repositório remoto (branch atual):
+Envia as alterações para o repositório remoto (branch atual escolhida):
 ~~~
 git push
+~~~
+or
+~~~
+git push --set-upstream username branch
 ~~~
 
 Envia as alterações para o repositório remoto (escolhendo a branch):
 ~~~
 git push origin [nomeDaBranch]
-~~~
-or
-~~~
-git push --set-upstream username branch
 ~~~
 
 </a>
