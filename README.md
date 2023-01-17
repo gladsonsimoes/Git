@@ -95,6 +95,10 @@ Envia as alterações para o repositório remoto (escolhendo a branch):
 ~~~
 git push origin [nomeDaBranch]
 ~~~
+or
+~~~
+git push --set-upstream username branch
+~~~
 
 </a>
 
