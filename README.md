@@ -136,7 +136,16 @@ git merge [nome da branch]
 git merge [source branch] [branch alvo]  
 ~~~  
 </a>  
-        
+
+## Pull
+
+comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota
+~~~git
+git pull
+~~~
+      
+      
+      
 <!-- Anotation -->       
         
 <!-- #### Esse comando criará uma branch em seu local de trabalho. Para fazer o push (algo como enviar) da nova branch para o repositório remoto, você precisa usar o comando a seguir:
