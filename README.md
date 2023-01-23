@@ -14,7 +14,8 @@ Summary
 - <a href="#commit"> Commit </a><br>
 - <a href="#push"> Push </a><br>
 - <a href="#branch"> Branch </a><br>
-- <a href="#verCommit"> Ver todos os commits </a><br>
+- <a href="#pull"> Pull </a><br>
+- <a href="#verCommits"> Ver todos os commits </a><br>
 
 <br>
 
