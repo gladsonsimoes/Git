@@ -15,10 +15,8 @@ Summary
 - <a href="#push"> Push </a><br>
 - <a href="#branch"> Branch </a><br>
 - <a href="#pull"> Pull </a><br>
-- <a href="#verCommits"> Ver todos os commits </a><br>
 
-<br>
-
+---
 <br>
 
 <!-- clonar e criar -->
@@ -51,22 +49,31 @@ git init <O nome do seu repositório local>
 <a name="addFiles"></a>
 <h2 align="center"> Add files </h2>  
 
-<a href="#"> Inicio </a>
+<p> Arquivo específico: </p>
 
-Adicionar o arquivo específico ao repositório:          
 ~~~git          
-git add arquivoParaAdicionar
+git add seuArquivo
 ~~~
-          
-Adicionar todos os arquivos novos e/ou modificados (inclusive o deletado) ao repositório:
-~~~git          
-git add * 
-~~~
-  
-Adicionar arquivos novos e modificados mas não os deletados. (muito usado para adicionar os arquivos atualizados)
+
+<p> Adicionar arquivos novos e modificados e retirar os deletados. (muito usado para adicionar os arquivos atualizados e modificado ) </p>
+
 ~~~git
 git add .
 ~~~
+
+<p> Adicionar todos os arquivos novos e/ou modificados ao repositório. (um pouco semelhante ao comando anterior) </p>
+
+~~~git          
+git add * 
+~~~
+
+<p> Adicionar todos os arquivos <b> novos <b>, <b> modificados <b> e inclusive os <b> deletados <b> </p>
+
+~~~git
+git add -A
+~~~
+  
+
 
 </a>
 
