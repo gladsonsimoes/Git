@@ -29,9 +29,9 @@ git clone https://linkrepository
 ~~~         
 
 <br><br>          
-<h2 align="center"> Iniciar e Criar um novo repositorio do git: </h2>
+<h2 align="center"> Iniciar um novo repositorio: </h2>
         
-#### Iniciar um novo repositório Git. (abra dentro do diretório que deseja!) 
+#### Iniciar um novo repositório <b> local </b> do Git. (abra dentro do diretório que deseja!) 
 ~~~          
 git init
 ~~~
