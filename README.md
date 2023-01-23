@@ -33,8 +33,7 @@ git clone https://linkrepository
 <br><br>          
 <h2 align="center"> Iniciar e Criar um novo repositorio do git: </h2>
         
-#### Criar um novo repositório do Git. (abra dentro do diretório!!) 
-
+#### Iniciar um novo repositório Git. (abra dentro do diretório que deseja!) 
 ~~~          
 git init
 ~~~
@@ -76,10 +75,16 @@ git add .
 <a name="commit">
 
 <h2 align="center"> Commit </h2>  
-realizar um commit do arquivo
+<p> realizar um commit do arquivo </p>
 
 ~~~git
 git commit -m “mensagem do commit”
+~~~
+
+<p> Ver commits </p>
+
+~~~
+git log
 ~~~
 
 </a>
@@ -147,15 +152,6 @@ comando do Git usado para atualizar a versão local de um repositório a partir 
 git pull
 ~~~
 </a>      
-
-
-<a name="verCommits">
-
-## Ver commits 
-~~~
-git log
-~~~
-</a>
  
  
  
