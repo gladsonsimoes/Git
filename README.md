@@ -138,19 +138,23 @@ git merge [source branch] [branch alvo]
 ~~~  
 </a>  
 
+<a name="pull">
 ## Pull
 
 comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota
 ~~~git
 git pull
 ~~~
-      
-## Ver commits 
+</a>      
 
+
+<a name="verCommits">
+
+## Ver commits 
 ~~~
 git log
 ~~~
- 
+</a>
  
  
  
