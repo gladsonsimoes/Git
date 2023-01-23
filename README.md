@@ -49,30 +49,34 @@ git init <O nome do seu repositório local>
 <a name="addFiles"></a>
 <h2 align="center"> Add files </h2>  
 
-<p> Arquivo específico: </p>
+<p> Arquivo específico: 
 
 ~~~git          
 git add seuArquivo
 ~~~
-
-<p> Adicionar arquivos novos e modificados e retirar os deletados. (muito usado para adicionar os arquivos atualizados e modificado ) </p>
+        
+</p>
+<p> Adicionar arquivos novos e modificados e retirar os deletados. (muito usado para adicionar os arquivos atualizados e modificado ) 
 
 ~~~git
 git add .
 ~~~
 
-<p> Adicionar todos os arquivos novos e/ou modificados ao repositório. (um pouco semelhante ao comando anterior) </p>
+</p>
+<p> Adicionar todos os arquivos novos e/ou modificados ao repositório. (um pouco semelhante ao comando anterior) 
 
 ~~~git          
 git add * 
 ~~~
 
-<p> Adicionar todos os arquivos <b> novos <b>, <b> modificados <b> e inclusive os <b> deletados <b> </p>
+</p>        
+<p> Adicionar todos os arquivos <b> novos </b>, <b> modificados </b> e inclusive os <b> deletados </b>
 
 ~~~git
 git add -A
 ~~~
-  
+
+</p>        
 
 
 </a>
