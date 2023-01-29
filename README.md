@@ -9,7 +9,7 @@
 Summary 
 
 
-- <a href="#clonarECriar"> Clonar e criar um Repositório </a><br>
+- <a href="#clonarECriar"> Clonar repositório remoto ou Iniciar um Repositório Local </a><br>
 - <a href="#addFiles"> Add files </a><br>
 - <a href="#commit"> Commit </a><br>
 - <a href="#push"> Push </a><br>
