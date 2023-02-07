@@ -71,8 +71,10 @@ git remote add origin <PROJECT_URL>
 <!-- GIT ADD -->
 <div>
 <a name="addFiles"></a>
-<h2 align="center"> Add files </h2>  
-
+<h2 align="center"> git add </h2>  
+<h4 align="center"> Adicionar arquivos </h4>          
+<br>
+        
 <p> Arquivo específico: 
 
 ~~~git          
@@ -131,6 +133,8 @@ git log
 <a name="push">
 <br> 
 <h2 align="center"> Push </h2>  
+<h4 align="center"> enviar o conteúdo do repositório local para um repositório remoto </h4>  
+<br>        
   
 
 Envia as alterações para o repositório remoto  ( branch atual escolhida ):
