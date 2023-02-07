@@ -23,7 +23,9 @@ Summary
 <a name="clonarECriar">         
 <h2 align="center"> Clonar um repositório do github </h2>
 
-HTTPS:
+O comando "git clone" é utilizado a qualquer momento que se deseja clonar um repositório para começar a trabalhar diretamente sobre ele:
+        
+<b> HTTPS: </b>
 ~~~
 git clone https://linkrepository
 ~~~         
