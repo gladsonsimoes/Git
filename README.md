@@ -89,7 +89,7 @@ git add -A
 <p> realizar um commit do arquivo </p>
 
 ~~~git
-git commit -m “mensagem do commit”
+git commit -a -m “mensagem do commit”
 ~~~
 
 <p> Ver commits </p>
