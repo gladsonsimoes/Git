@@ -8,7 +8,6 @@
 
 Summary 
 
-
 - <a href="#clonarECriar"> Clonar repositório remoto ou Iniciar um Repositório Local </a><br>
 - <a href="#addFiles"> Add files </a><br>
 - <a href="#commit"> Commit </a><br>
@@ -19,7 +18,7 @@ Summary
 ---
 <br>
 
-<!-- clonar e criar -->
+<!-- GIT CLONE -->
 <a name="clonarECriar">         
 <h2 align="center"> Clonar um repositório do github </h2>
 
