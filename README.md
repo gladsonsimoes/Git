@@ -30,25 +30,37 @@ O comando "git clone" é utilizado a qualquer momento que se deseja clonar um re
 git clone https://linkrepository
 ~~~         
 
+##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado! 
+###### caso queira fazer de outro jeito tem os comandos abaixo.
+
 <br><br> 
+
+<!-- GIT INIT -->
 <div>
-<h2 align="center"> Iniciar um novo repositorio: </h2>
-        
-#### Iniciar um novo repositório <b> local </b> do Git. (abra dentro do diretório que deseja!) 
+<h2 align="center"> git init </h2>
+<h4 align="center"> Iniciar um novo repositorio Local </h4>
+<br>
+
+Iniciar um novo repositório <b> local </b> do Git. (abra dentro do diretório que deseja!) 
 ~~~          
 git init
 ~~~
 
 </div>
 
-<br><br>               
-<div>        
-<h2 align="center"> Remote </h2>   
+<br><br> 
 
-#### O remote é para se caso você criou seu repositorio remoto no github e deseja modificar ele na maquina local , ou usar       
+<!-- GIT REMOTE -->
+<div>        
+<h2 align="center"> git remote </h2>   
+<h4 align="center"> Adicionar o repositorio remoto no repositorio local iniciado </h4>
+<br>
+
+O remote é para se caso você criou seu repositorio remoto no github e deseja modificar ele na maquina local:      
 ~~~
 git remote add origin <PROJECT_URL>
 ~~~
+
 ###### você também pode se conectar pelo caminho SSH,  dependendo do que o serviço Git fornece.
 
 </div>        
@@ -56,6 +68,9 @@ git remote add origin <PROJECT_URL>
 </a>
 
 <br><br> 
+
+<!-- GIT ADD -->
+<div>
 <a name="addFiles"></a>
 <h2 align="center"> Add files </h2>  
 
@@ -87,12 +102,13 @@ git add -A
 ~~~
 
 </p>        
-
-
 </a>
+</div>
 
 <br><br>
 
+<!-- GIT COMMIT -->
+<div>
 <a name="commit">
 
 <h2 align="center"> Commit </h2>  
@@ -109,7 +125,10 @@ git log
 ~~~
 
 </a>
+</div>
 
+<!-- GIT PUSH -->
+<div>
 <a name="push">
 <br> 
 <h2 align="center"> Push </h2>  
@@ -135,7 +154,10 @@ git push origin [nomeDaBranch]
 ~~~ -->
 
 </a>
+</div>
 
+<!-- GIT BRANCH -->
+<div>
 <a name="branch">
 <br>
   <h2 align="center"> Branch </h2>
@@ -176,7 +198,10 @@ git merge [nome da branch]
 git merge [source branch] [branch alvo]  
 ~~~  
 </a>  
+</div>
 
+<!-- GIT PULL -->
+<div>
 <a name="pull">
 <h2> Pull </h2>
 
@@ -186,3 +211,4 @@ comando do Git usado para atualizar a versão local de um repositório a partir 
 git pull
 ~~~
 </a>
+</div>
