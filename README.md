@@ -69,12 +69,19 @@ git clone https://linkrepository
 
 ##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado!
 
-E há como também atualizar o repositorio local com as ultimas atualizações do remoto (para que possa mexer no mesmo repositorio remoto atualizado no github).
+</a>
+</div>
+
+<!-- GIT FETCH -->
+<div>
+<h2 align="center"> git fetch </h2>
+<h4 align="center"> Atualizar o Clone Local </h4>
+<br>
+
+atualizar o repositorio local com as ultimas atualizações do remoto (para que possa mexer no mesmo repositorio , e atualizando com o repositorio do github).
 ~~~
 git fetch
 ~~~
-
-</a>
 </div>
 
 <br><br> 
