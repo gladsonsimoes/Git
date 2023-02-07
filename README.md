@@ -70,7 +70,6 @@ git clone https://linkrepository
 ~~~         
 
 ##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado! 
-###### caso queira fazer de outro jeito tem os comandos abaixo.
 </a>
 </div>
 
