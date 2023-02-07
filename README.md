@@ -54,7 +54,7 @@ git remote add origin <PROJECT_URL>
         
 <!-- GIT CLONE -->                
 <div>  
-<h5 align="center"> Caso Tenha um repositório vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br>
+<h5 align="center"> Caso Tenha um repositório remoto vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br>
 <a name="clone">         
 <h2 align="center"> git clone </h2>
 <h4 align="center"> Clonar um repositório do github </h4>
@@ -67,7 +67,13 @@ O comando "git clone" é utilizado a qualquer momento que se deseja clonar um re
 git clone https://linkrepository
 ~~~         
 
-##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado! 
+##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado!
+
+E há como também atualizar o repositorio local com as ultimas atualizações do remoto (para que possa mexer no mesmo repositorio remoto atualizado no github).
+~~~
+git fetch
+~~~
+
 </a>
 </div>
 
