@@ -71,14 +71,15 @@ git clone https://linkrepository
 
 </a>
 </div>
-
+<br> 
+          
 <!-- GIT FETCH -->
 <div>
 <h2 align="center"> git fetch </h2>
 <h4 align="center"> Atualizar o Clone Local </h4>
 <br>
 
-atualizar o repositorio local com as ultimas atualizações do remoto (para que possa mexer no mesmo repositorio , e atualizando com o repositorio do github).
+caso queira atualizar o repositório clonado com as ultimas atualizações do remoto , use: 
 ~~~
 git fetch
 ~~~
@@ -154,13 +155,11 @@ git log
 <h4 align="center"> enviar o conteúdo do repositório local para um repositório remoto </h4>  
 <br>        
   
-
 Envia as alterações para o repositório remoto  ( branch atual escolhida ):
 
 ~~~
 git push
 ~~~
-
 
 <p> Envia as alterações para o repositório remoto ( escolhendo a branch ) 
 
@@ -169,11 +168,6 @@ git push --set-upstream username branch
 ~~~
 
 </p>
-<!-- Envia as alterações para o repositório remoto (escolhendo a branch):
-~~~
-git push origin [nomeDaBranch]
-~~~ -->
-
 </a>
 </div>
 
