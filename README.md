@@ -28,7 +28,8 @@ HTTPS:
 git clone https://linkrepository
 ~~~         
 
-<br><br>          
+<br><br> 
+<div>
 <h2 align="center"> Iniciar um novo repositorio: </h2>
         
 #### Iniciar um novo repositório <b> local </b> do Git. (abra dentro do diretório que deseja!) 
@@ -36,12 +37,19 @@ git clone https://linkrepository
 git init
 ~~~
 
+</div>
 
-<h4> Se você já possui um repositório anterior ou deseja criar um repositório com um nome em específico, você pode passar o nome como parâmetro do comando: </h4>
+<br><br>               
+<div>        
+<h2 align="center"> Remote </h2>   
 
-~~~git          
-git init <O nome do seu repositório local>
+#### O remote é para se caso você criou seu repositorio remoto no github e deseja modificar ele na maquina local , ou usar       
 ~~~
+git remote add origin <PROJECT_URL>
+~~~
+###### você também pode se conectar pelo caminho SSH,  dependendo do que o serviço Git fornece.
+
+</div>        
           
 </a>
 
@@ -129,8 +137,14 @@ git push origin [nomeDaBranch]
 <a name="branch">
 <br>
   <h2 align="center"> Branch </h2>
-  
-#### Como ver as branches:                  
+
+
+#### Ver branches remotas:
+~~~
+git branch -r
+~~~
+
+#### Ver branches local              
 ~~~      
 git branch  
 ~~~
