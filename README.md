@@ -119,7 +119,7 @@ git add -A
 <div>
 <a name="commit">
 
-<h2 align="center"> Commit </h2>  
+<h2 align="center"> git commit </h2>  
 <p> realizar um commit do arquivo </p>
 
 ~~~git
@@ -139,7 +139,7 @@ git log
 <div>
 <a name="push">
 <br> 
-<h2 align="center"> Push </h2>  
+<h2 align="center"> git push </h2>  
 <h4 align="center"> enviar o conteúdo do repositório local para um repositório remoto </h4>  
 <br>        
   
@@ -170,7 +170,7 @@ git push origin [nomeDaBranch]
 <div>
 <a name="branch">
 <br>
-  <h2 align="center"> Branch </h2>
+  <h2 align="center"> git branch </h2>
 
 
 #### Ver branches remotas:
