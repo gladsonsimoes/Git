@@ -8,8 +8,10 @@
 
 Summary 
 
-- <a href="#clonarECriar"> Clonar repositório remoto ou Iniciar um Repositório Local </a><br>
-- <a href="#addFiles"> Add files </a><br>
+
+- <a href="#init_remote"> Init e Remote </a><br>
+- <a href="#clone"> Clone </a><br>
+- <a href="#addFiles"> Add </a><br>
 - <a href="#commit"> Commit </a><br>
 - <a href="#push"> Push </a><br>
 - <a href="#branch"> Branch </a><br>
@@ -18,23 +20,8 @@ Summary
 ---
 <br>
 
-<!-- GIT CLONE -->
-<a name="clonarECriar">         
-<h2 align="center"> Clonar um repositório do github </h2>
-
-O comando "git clone" é utilizado a qualquer momento que se deseja clonar um repositório para começar a trabalhar diretamente sobre ele:
-        
-<b> HTTPS: </b>
-~~~
-git clone https://linkrepository
-~~~         
-
-##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado! 
-###### caso queira fazer de outro jeito tem os comandos abaixo.
-
-<br><br> 
-
 <!-- GIT INIT -->
+<a name="init_remote">
 <div>
 <h2 align="center"> git init </h2>
 <h4 align="center"> Iniciar um novo repositorio Local </h4>
@@ -62,9 +49,30 @@ git remote add origin <PROJECT_URL>
 
 ###### você também pode se conectar pelo caminho SSH,  dependendo do que o serviço Git fornece.
 
+</a>        
 </div>        
           
+<br><hr><br> 
+        
+<!-- GIT CLONE -->                
+<div>  
+<h5 align="center"> Caso Tenha um repositório vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br>
+<a name="clone">         
+<h2 align="center"> git clone </h2>
+<h4 align="center"> Clonar um repositório do github </h4>
+<br>
+        
+O comando "git clone" é utilizado a qualquer momento que se deseja clonar um repositório para começar a trabalhar diretamente sobre ele:
+        
+<b> HTTPS: </b>
+~~~
+git clone https://linkrepository
+~~~         
+
+##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado! 
+###### caso queira fazer de outro jeito tem os comandos abaixo.
 </a>
+</div>
 
 <br><br> 
 
