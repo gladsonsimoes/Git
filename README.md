@@ -132,6 +132,7 @@ git add -A
 <a name="commit">
 
 <h2 align="center"> git commit </h2>  
+<h4 align="center"> Adiciona as alterações dos arquivos no repositorio local </h4>
 <p> realizar um commit do arquivo </p>
 
 ~~~git
@@ -152,7 +153,7 @@ git log
 <a name="push">
 <br> 
 <h2 align="center"> git push </h2>  
-<h4 align="center"> enviar o conteúdo do repositório local para um repositório remoto </h4>  
+<h4 align="center"> Enviar as alterações do repositório local para um repositório remoto </h4>  
 <br>        
   
 Envia as alterações para o repositório remoto  ( branch atual escolhida ):
