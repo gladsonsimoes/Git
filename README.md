@@ -57,7 +57,7 @@ git remote add origin <PROJECT_URL>
 <h5 align="center"> Caso Tenha um repositório remoto vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br>
 <a name="clone">         
 <h2 align="center"> git clone </h2>
-<h4 align="center"> Clonar um repositório do github </h4>
+<h4 align="center"> Clonar um repositório remoto </h4>
 <br>
         
 O comando "git clone" é utilizado a qualquer momento que se deseja clonar um repositório para começar a trabalhar diretamente sobre ele:
