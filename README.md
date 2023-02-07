@@ -33,9 +33,7 @@ git init
 ~~~
 
 </div>
-
-<br><br> 
-
+<br>
 <!-- GIT REMOTE -->
 <div>        
 <h2 align="center"> git remote </h2>   
