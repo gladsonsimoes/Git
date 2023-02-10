@@ -1,10 +1,9 @@
 
 <div align="">
   <details>
-        <summary> <h4> Configurar Usuário </h2> </summary>
+        <summary> <h4> Configure User </h2> </summary>
 
-Para ver as configurações do Git digite o comando abaixo
-
+To view the Git settings type the command below
 ~~~
 git config –-list
 ~~~
@@ -23,14 +22,14 @@ git config -–global user.email youremail@email.com
 git config -–global user.name youruserNameGithub
 ~~~
 
-### Para remover usuário e email:
+### To remove user and email:
 
-#### Remover o email:
+#### remove email:
 ~~~
 git config -–global -–unset user.email yourEmail@email.com
 ~~~
 
-#### Remover o nickname:
+#### remove nickname:
 ~~~
 git config -–global -–unset user.name yourUsername
 ~~~
@@ -41,25 +40,25 @@ git config -–global -–unset user.name yourUsername
 
 <div align="">
   <details>
-        <summary> <h4> Comandos para diretório </h4> </summary>          
+        <summary> <h4> commands for directory </h4> </summary>          
 <div align="left">
           
-listar as pastas:
+list the folders:
 ~~~git       
 ls
 ~~~
 
-abrir o diretório   
+open the directory  
 ~~~git       
 cd nomedapasta/
 ~~~
 
-criar diretório :
+create directory:
 ~~~git
 mkdir nomedapastaparacriar
 ~~~
 
-Ver diretório oculto:
+View hidden directory:
 ~~~git
 ls -a
 ~~~
