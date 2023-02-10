@@ -1,4 +1,4 @@
-<div><h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
+<div><h1> Git Commands <img align="right" width="50px" src="../img/icons8-git-48.png"></h1></div>
 
 <p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
 <hr>
