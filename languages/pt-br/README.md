@@ -3,7 +3,7 @@
 <p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
 <hr>
 
-<a href="Config&Diretory.md"><b> Configurar conta e comandos de pasta</b></a>
+<a href="Configuração&Diretório.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
 Summary 
