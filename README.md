@@ -74,7 +74,8 @@ git clone https://linkrepository
 <br> 
           
 <!-- GIT FETCH -->
-<div>
+
+<!-- <div>
 <h2 align="center"> git fetch </h2>
 <h4 align="center"> Update Local Clone </h4>
 <br>
@@ -82,7 +83,8 @@ git clone https://linkrepository
 if you want to update the cloned repository with the latest updates from the remote, use:
 ~~~
 git fetch
-~~~
+~~~ -->
+
 
 </div>
 
