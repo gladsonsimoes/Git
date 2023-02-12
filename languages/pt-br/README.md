@@ -10,12 +10,12 @@ Summary
 
 
 - <a href="#init_remote"> Init e Remote </a><br>
-- <a href="#clone"> Clone </a><br>
-- <a href="#addFiles"> Add </a><br>
-- <a href="#commit"> Commit </a><br>
-- <a href="#push"> Push </a><br>
-- <a href="#branch"> Branch </a><br>
-- <a href="#pull"> Pull </a><br>
+- <a href="#clone"> Clone - Clonar um repositório remoto </a><br>
+- <a href="#addFiles"> Add - Adicionar arquivos </a><br>
+- <a href="#commit"> Commit - Fazer Anotação dos arquivos</a><br>
+- <a href="#push"> Push - Enviar os arquivo anotados para repositorio remoto </a><br>
+- <a href="#branch"> Branch - Controle de ramificações </a><br>
+- <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 
 ---
 <br>
