@@ -34,7 +34,7 @@ git config -–global -–unset user.email yourEmail@email.com
 git config -–global -–unset user.name yourUsername
 ~~~
 
-ou vai no painel de controle , contas de usuários , gerenciador de credenciais , credenciais do Windows , e procure por git:https://github.com e remove
+ou vai no painel de controle , contas de usuários , gerenciador de credenciais , credenciais do Windows , e procure por <b> git :https: //github.com </b> e remove
     
 ![Captura de tela 2023-02-15 192359](https://user-images.githubusercontent.com/99969693/219197588-60f2aceb-9dc5-40c6-aa68-597d3ca0cb7c.png)
    
