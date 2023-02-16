@@ -25,41 +25,8 @@ Summary
 ---
 <br>
 
-<!-- GIT INIT -->
-<a name="init_remote">
-<div>
-<h2 align="center"> git init </h2>
-<h4 align="center"> Start a new Local repository </h4>
-<br>
-
-Start a new <b> local </b> git repository (open inside the directory you want!) 
-~~~          
-git init
-~~~
-
-</div>
-<br>
-<!-- GIT REMOTE -->
-<div>        
-<h2 align="center"> git remote </h2>   
-<h4 align="center"> Add remote repository to local repository started </h4>
-<br>
-
-The remote is for if you created your remote repository on github and want to modify it on the local machine:      
-~~~
-git remote add origin <PROJECT_URL>
-~~~
-
-###### you can also connect via the SSH path, depending on what the Git service provides.
-
-</a>        
-</div>        
-          
-<br><hr><br> 
-        
 <!-- GIT CLONE -->                
 <div>  
-<h5 align="center"> If you have an empty remote repository or one with content and you want to edit it, the alternative is git clone! </h5><br>
 <a name="clone">         
 <h2 align="center"> git clone </h2>
 <h4 align="center"> Clone a remote repository </h4>
