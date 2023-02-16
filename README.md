@@ -14,7 +14,6 @@ Important git commands to take as reference, <b> I suggest so that there is no m
 
 Summary 
 
-- <a href="#init_remote"> Init e Remote </a><br>
 - <a href="#clone"> Clone </a><br>
 - <a href="#addFiles"> Add </a><br>
 - <a href="#commit"> Commit </a><br>
