@@ -26,7 +26,7 @@ git config -–global user.email youremail@email.com
 git config -–global user.name youruserNameGithub
 ~~~
     
-### To replace the username and email just use the command above   
+### To replace the username and email, just use the command above or go to the .gitconfig file and change the name and email 
 
 <!-- ### To remove user and email:
 
