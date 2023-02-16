@@ -66,7 +66,7 @@ Um movimento de energia que busca todos os controles remotos registrados e suas 
 git fetch --all
 ~~~        
 
-        </a>
+</a>
 </div>
 
 <br><br> 
