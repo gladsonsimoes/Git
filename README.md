@@ -45,7 +45,7 @@ git clone https://linkrepository
 <br> 
           
 <!-- GIT FETCH -->
-
+<a name="fetch">
 <div>
 <h2 align="center"> git fetch </h2>
 <h4 align="center"> download history from remote repository to local repository </h4>
@@ -66,6 +66,7 @@ Um movimento de energia que busca todos os controles remotos registrados e suas 
 git fetch --all
 ~~~        
 
+        </a>
 </div>
 
 <br><br> 
@@ -151,19 +152,6 @@ git push -u username branch
 </a>
 </div>
 
-
-<!-- GIT FETCH -->
-
-<div>
-<a name="fetch">
-<br>
-  <h2 align="center"> git fetch </h2>
-The command downloads commits, files, and refs from a remote repository into your local repo
-~~~
-git fetch
-~~~
-</a>
-</div>
 
 <!-- GIT BRANCH -->
 <div>
