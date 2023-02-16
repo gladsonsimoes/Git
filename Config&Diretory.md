@@ -25,23 +25,25 @@ git config -–global user.email youremail@email.com
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
+    
+### To replace the username and email just use the command above   
 
-### To remove user and email:
+<!-- ### To remove user and email:
 
 #### remove email:
 ~~~
-git config -–global -–unset-all user.email yourEmail@email.com
+git config -–global -–unset user.email yourEmail@email.com
 ~~~
 
 #### remove nickname:
 ~~~
-git config -–global -–unset-all user.name yourUsername
-~~~
+git config -–global -–unset user.name yourUsername
+~~~ -->
 
-ou vai no painel de controle , contas de usuários , gerenciador de credenciais , credenciais do Windows , e procure por <b> git :https: //github.com </b> e remove
+<!-- ou vai no painel de controle , contas de usuários , gerenciador de credenciais , credenciais do Windows , e procure por <b> git :https: //github.com </b> e remove
     
 ![Captura de tela 2023-02-15 192359](https://user-images.githubusercontent.com/99969693/219197588-60f2aceb-9dc5-40c6-aa68-597d3ca0cb7c.png)
-   
+    -->
     
 
 </details>
