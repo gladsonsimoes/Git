@@ -10,3 +10,5 @@
 3 - Adicionar arquivos onde foi clonado  ( Arraste as pastas do projeto para o repositorio local, e depois dar o : git add . ) 
 
 4 - Anotar e enviar (Commit e Push) ( git commit -a -m "Mensagem do Commit" , git push )
+
+<a href="https://codetheelephant.com/como-enviar-um-projeto-local-para-o-github/"> Veja este outro jeito </a>
