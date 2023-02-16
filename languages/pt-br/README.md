@@ -21,21 +21,23 @@ Summary
 <br>
 
 <!-- GIT INIT -->
-<a name="init_remote">
+
+<!-- <a name="init_remote">
 <div>
 <h2 align="center"> git init </h2>
 <h4 align="center"> Iniciar um novo repositorio Local </h4>
-<br>
+<br> 
 
 Iniciar um novo repositório <b> local </b> do Git. (abra dentro do diretório que deseja!) 
 ~~~          
 git init
-~~~
+~~~ -->
 
 </div>
 <br>
 <!-- GIT REMOTE -->
-<div>        
+
+<!-- <div>        
 <h2 align="center"> git remote </h2>   
 <h4 align="center"> Adicionar o repositorio remoto no repositorio local iniciado </h4>
 <br>
@@ -45,16 +47,16 @@ O remote é para se caso você criou seu repositorio remoto no github e deseja m
 git remote add origin <PROJECT_URL>
 ~~~
 
-###### você também pode se conectar pelo caminho SSH,  dependendo do que o serviço Git fornece.
+###### você também pode se conectar pelo caminho SSH,  dependendo do que o serviço Git fornece. -->
 
 </a>        
 </div>        
           
-<br><hr><br> 
+<!-- <br><hr><br>  -->
         
 <!-- GIT CLONE -->                
 <div>  
-<h5 align="center"> Caso Tenha um repositório remoto vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br>
+<!-- <h5 align="center"> Caso Tenha um repositório remoto vazio ou com conteúdo e deseja edita-lo a alternativa é o git clone!</h5><br> -->
 <a name="clone">         
 <h2 align="center"> git clone </h2>
 <h4 align="center"> Clonar um repositório remoto </h4>
