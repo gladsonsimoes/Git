@@ -2,12 +2,16 @@
 <div align="">
   <details>
         <summary> <h4> Configure User </h2> </summary>
-
-To view the Git settings type the command below
+    
+To view all Git settings, type the command below
 ~~~
 git config –-list
 ~~~
 
+To view all global Git settings, type the command below
+~~~
+git config --global --list    
+~~~    
 ----
 
 #### add email:
@@ -26,12 +30,12 @@ git config -–global user.name youruserNameGithub
 
 #### remove email:
 ~~~
-git config -–global -–unset user.email yourEmail@email.com
+git config -–global -–unset-all user.email yourEmail@email.com
 ~~~
 
 #### remove nickname:
 ~~~
-git config -–global -–unset user.name yourUsername
+git config -–global -–unset-all user.name yourUsername
 ~~~
 
 ou vai no painel de controle , contas de usuários , gerenciador de credenciais , credenciais do Windows , e procure por <b> git :https: //github.com </b> e remove
