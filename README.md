@@ -59,7 +59,8 @@ git fetch <remote>
 O mesmo que o comando acima, mas apenas busque a ramificação especificada      
 ~~~
 git fetch <remote> <branch>
-~~~       
+~~~    
+        
 Um movimento de energia que busca todos os controles remotos registrados e suas ramificações:     
 ~~~
 git fetch --all
