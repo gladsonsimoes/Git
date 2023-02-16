@@ -23,7 +23,11 @@ git config -–global user.email youremail@email.com
 git config -–global user.name youruserNameGithub
 ~~~
 
-### Para remover usuário e email:
+### Remover email e nickname
+    
+#### Para substituir o nome de usuário e e-mail, basta usar o comando acima ou ir até o arquivo .gitconfig e alterar o nome e o e-mail    
+
+<!-- ### Para remover usuário e email:
 
 #### Remover o email:
 ~~~
@@ -33,7 +37,7 @@ git config -–global -–unset user.email yourEmail@email.com
 #### Remover o nickname:
 ~~~
 git config -–global -–unset user.name yourUsername
-~~~
+~~~ -->
 
 </details>
 </div>
