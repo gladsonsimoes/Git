@@ -15,6 +15,7 @@ Important git commands to take as reference, <b> I suggest so that there is no m
 Summary 
 
 - <a href="#clone"> Clone </a><br>
+- <a href="#fetch"> Fetch </a><br>
 - <a href="#addFiles"> Add </a><br>
 - <a href="#commit"> Commit </a><br>
 - <a href="#push"> Push </a><br>
@@ -135,9 +136,23 @@ git push
 
 Push the changes to the remote repository (choosing the branch) 
 ~~~
-git push --set-upstream username branch
+git push -u username branch
 ~~~
 
+</a>
+</div>
+
+
+<!-- GIT FETCH -->
+
+<div>
+<a name="fetch">
+<br>
+  <h2 align="center"> git fetch </h2>
+The command downloads commits, files, and refs from a remote repository into your local repo
+~~~
+git fetch
+~~~
 </a>
 </div>
 
