@@ -2,7 +2,7 @@
 
 1 -  Criar um repositorio remoto no github
 
-2 - Clonar o repositorio com git bash
+2 - Clonar o repositorio remoto com git clone ( use o git bash dentro da pasta de projetos aonde você irá clonar ) 
 
 3 - Adicionar arquivos onde foi clonado 
 
