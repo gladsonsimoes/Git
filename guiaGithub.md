@@ -1,4 +1,5 @@
 # Guia básico de como mandar arquivos para o github atraves do git:
+(MAs ANTES Faça as configurações do git com seu user.name e user.email atraves do : git config --list , e configure se caso não tiver!)
 
 1 -  Criar um repositorio remoto no github
 
