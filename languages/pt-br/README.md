@@ -72,18 +72,6 @@ git clone https://linkrepository
 </a>
 </div>
 <br> 
-          
-<!-- GIT FETCH -->
-<div>
-<h2 align="center"> git fetch </h2>
-<h4 align="center"> Atualizar o Clone Local </h4>
-<br>
-
-caso queira atualizar o repositório clonado com as ultimas atualizações do remoto , use: 
-~~~
-git fetch
-~~~
-</div>
 
 <br><br> 
 
