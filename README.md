@@ -46,16 +46,23 @@ git clone https://linkrepository
           
 <!-- GIT FETCH -->
 
-<!-- <div>
+ <div>
 <h2 align="center"> git fetch </h2>
-<h4 align="center"> Update Local Clone </h4>
+<h4 align="center"> download history from remote repository to local repository </h4>
 <br>
 
-if you want to update the cloned repository with the latest updates from the remote, use:
+Busque todas as ramificações do repositório. Isso também faz o download de todas as confirmações e arquivos necessários do outro repositório.
 ~~~
-git fetch
-~~~ -->
-
+git fetch <remote>        
+~~~ 
+O mesmo que o comando acima, mas apenas busque a ramificação especificada      
+~~~
+git fetch <remote> <branch>
+~~~       
+Um movimento de energia que busca todos os controles remotos registrados e suas ramificações:     
+~~~
+git fetch --all
+~~~        
 
 </div>
 
