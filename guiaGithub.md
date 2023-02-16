@@ -2,8 +2,8 @@
 
 1 -  Criar um repositorio remoto no github
 
-2 - Clonar o repositorio remoto com git clone ( use o git bash dentro da pasta de projetos aonde você irá clonar ) 
+2 - Clonar o repositorio remoto com git clone ( use o git bash dentro da pasta de projetos aonde você irá clonar todos os seus projetos do github) 
 
-3 - Adicionar arquivos onde foi clonado 
+3 - Adicionar arquivos onde foi clonado  ( Arraste as pastas do projeto para o repositorio local, e depois dar o : git add . ) 
 
-4 - Anotar e enviar (Commit e Push)
+4 - Anotar e enviar (Commit e Push) ( git commit -a -m "Mensagem do Commit" , git push )
