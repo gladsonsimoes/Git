@@ -46,7 +46,7 @@ git clone https://linkrepository
           
 <!-- GIT FETCH -->
 
- <div>
+<div>
 <h2 align="center"> git fetch </h2>
 <h4 align="center"> download history from remote repository to local repository </h4>
 <br>
@@ -55,6 +55,7 @@ Busque todas as ramificações do repositório. Isso também faz o download de t
 ~~~
 git fetch <remote>        
 ~~~ 
+
 O mesmo que o comando acima, mas apenas busque a ramificação especificada      
 ~~~
 git fetch <remote> <branch>
