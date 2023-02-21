@@ -17,7 +17,10 @@ Summary
 - <a href="#branch"> Branch - Controle de ramificações </a><br>
 - <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 
----        
+---   
+<br>
+
+
 <!-- GIT CLONE -->                
 <div>  
 <a name="clone">         
@@ -49,7 +52,7 @@ git clone https://linkrepository
 git pull
 ~~~
         
-<b> Exemplo:  Quando você faz alterações no repositório remoto e modifica os arquivos , ae para atualizar essas modificações no repositório local utilizamos o git pull </b>        
+<b> Exemplo:  Quando você faz alterações e as modificações dos arquivos no repositório remoto e você deseja que estes arquivos atualizados estejam no repositório local. para isto utilizamos o git pull</b>        
 </a>
 </div>
 <br>
@@ -64,7 +67,7 @@ git pull
 ~~~
 git fetch
 ~~~
-<b> Exemplo: Eu quero que todo o histórico de alterações que foram realizados , para isso utilizamos o git fetch </b>        
+<b> Exemplo: Eu quero que todo o histórico de alterações que foram realizados no repositório remoto esteja no repositório local. para isso utilizamos o git fetch </b>        
         
 </a>
 </div>
@@ -76,7 +79,7 @@ git fetch
 <div>
 <a name="addFiles"></a>
 <h2 align="center"> git add </h2>  
-<h4 align="center"> Adicionar arquivos </h4>          
+<h4 align="center"> Adicionar novos arquivos e as alterações </h4>          
 <br>
         
 <p> Arquivo específico: 
@@ -117,7 +120,7 @@ git add -A
 <a name="commit">
 
 <h2 align="center"> git commit </h2>  
-<h4 align="center"> Confirmação das alterações dos arquivos </h4>
+<h4 align="center"> Confirmação das alterações </h4>
 <p> realizar um commit do arquivo </p>
 
 ~~~git
@@ -161,8 +164,9 @@ git push -u username branch
 <div>
 <a name="branch">
 <br>
-  <h2 align="center"> git branch </h2>
-
+<h2 align="center"> git branch </h2>
+<h4 align="center"> Ramificações do git </h4>        
+<br>
 
 #### Ver branches remotas:
 ~~~
