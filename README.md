@@ -24,6 +24,16 @@ Summary
 <a name="init">
 <h2 align="center"> git init </h2>
 <h4 align="center"> Inicializar um Repositório Local </h4>
+        
+usar o diretorio atual como repositorio local        
+~~~
+git init
+~~~
+Criar um repositorio
+~~~
+git init nameRepository        
+~~~        
+     
 </a>
 </div>
 <br>
@@ -33,6 +43,11 @@ Summary
 <a name="remote">
 <h2 align="center"> git remote </h2>
 <h4 align="center"> Adicionar o repositorio remoto criado</h4>
+        
+Comando para definir o repositorio remoto 
+~~~
+git remote add <username> <url>
+~~~   
 </a>
 </div>
 <br>
