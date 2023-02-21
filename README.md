@@ -1,73 +1,42 @@
-<div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/tree/main/languages/pt-br">Português-BR</a></h4></div>
+<div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/tree/main/languages/en-us">English</a></h4></div>
+<hr>
+<div><h1> Git Commands <img align="right" width="50px" src="../../img/icons8-git-48.png"></h1></div>
 
----
+<p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
+<hr>
 
-<div><h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
-
-Important git commands to take as reference, <b> I suggest so that there is no mistake write manually! </b>
-
----
-
-<a href="Config&Diretory.md"><b> Configure account and folder commands </b></a>
-
----
+<a href="Configuração&Diretório.md"><b> Configurar conta e comandos de pasta</b></a>
+<hr>
 
 Summary 
 
-- <a href="#clone"> Clone </a><br>
-- <a href="#fetch"> Fetch </a><br>
-- <a href="#addFiles"> Add </a><br>
-- <a href="#commit"> Commit </a><br>
-- <a href="#push"> Push </a><br>
-- <a href="#branch"> Branch </a><br>
-- <a href="#pull"> Pull </a><br>
+- <a href="#clone"> Clone - Clonar um repositório remoto </a><br>
+- <a href="#addFiles"> Add - Adicionar arquivos </a><br>
+- <a href="#commit"> Commit - Fazer Anotação dos arquivos</a><br>
+- <a href="#push"> Push - Enviar os arquivo anotados para repositorio remoto </a><br>
+- <a href="#branch"> Branch - Controle de ramificações </a><br>
+- <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 
----
-<br>
-
+---        
 <!-- GIT CLONE -->                
 <div>  
 <a name="clone">         
 <h2 align="center"> git clone </h2>
-<h4 align="center"> Clone a remote repository </h4>
+<h4 align="center"> Clonar um repositório remoto </h4>
 <br>
         
-The "git clone" command is used whenever you want to clone a repository to start working directly on it:
+O comando "git clone" é utilizado a qualquer momento que se deseja clonar um repositório para começar a trabalhar diretamente sobre ele:
         
 <b> HTTPS: </b>
 ~~~
 git clone https://linkrepository
 ~~~         
 
-##### Note: The local copy created through a clone works as if we had created a repository using "git init". The only difference is that we get the history of the remote repository up to the point the clone was created!
+##### Obs: A cópia local criada através de um clone trabalha como se tivéssemos criado um repositório utilizando o "git init". A única diferença é que recebemos o histórico do repositório remoto até o ponto que o clone foi criado!
+
 </a>
 </div>
 <br> 
-          
-<!-- GIT FETCH -->
-<a name="fetch">
-<div>
-<h2 align="center"> git fetch </h2>
-<h4 align="center"> download history from remote repository to local repository </h4>
-<br>
-
-Busque todas as ramificações do repositório. Isso também faz o download de todas as confirmações e arquivos necessários do outro repositório.
-~~~
-git fetch <remote>        
-~~~ 
-
-O mesmo que o comando acima, mas apenas busque a ramificação especificada      
-~~~
-git fetch <remote> <branch>
-~~~    
-        
-Um movimento de energia que busca todos os controles remotos registrados e suas ramificações:     
-~~~
-git fetch --all
-~~~        
-
-</a>
-</div>
 
 <br><br> 
 
@@ -75,31 +44,31 @@ git fetch --all
 <div>
 <a name="addFiles"></a>
 <h2 align="center"> git add </h2>  
-<h4 align="center"> add files </h4>          
+<h4 align="center"> Adicionar arquivos </h4>          
 <br>
         
-<p> Specific file:
+<p> Arquivo específico: 
 
 ~~~git          
 git add seuArquivo
 ~~~
         
 </p>
-<p> Add new and modified files and remove deleted ones. (mostly used to add updated and modified files)
+<p> Adicionar arquivos novos e modificados e retirar os deletados. (muito usado para adicionar os arquivos atualizados e modificado ) 
 
 ~~~git
 git add .
 ~~~
 
 </p>
-<p> Add all new and/or modified files to the repository. (somewhat similar to the previous command) 
+<p> Adicionar todos os arquivos novos e/ou modificados ao repositório. (um pouco semelhante ao comando anterior) 
 
 ~~~git          
 git add * 
 ~~~
 
 </p>        
-<p> Add all <b> new </b>, <b> modified </b> and even <b> deleted </b> files
+<p> Adicionar todos os arquivos <b> novos </b>, <b> modificados </b> e inclusive os <b> deletados </b>
 
 ~~~git
 git add -A
@@ -116,14 +85,15 @@ git add -A
 <a name="commit">
 
 <h2 align="center"> git commit </h2>  
-<h4 align="center"> Adds changes to files in the local repository </h4>
+<h4 align="center"> Adiciona as alterações dos arquivos no repositorio local </h4>
+<p> realizar um commit do arquivo </p>
 
-commit the file 
 ~~~git
 git commit -a -m “mensagem do commit”
 ~~~
 
-View commits
+<p> Ver commits </p>
+
 ~~~
 git log
 ~~~
@@ -136,22 +106,24 @@ git log
 <a name="push">
 <br> 
 <h2 align="center"> git push </h2>  
-<h4 align="center"> Push changes from the local repository to a remote repository </h4>  
+<h4 align="center"> Enviar as alterações do repositório local para um repositório remoto </h4>  
 <br>        
   
-Push changes to remote repository (chosen current branch):
+Envia as alterações para o repositório remoto  ( branch atual escolhida ):
+
 ~~~
 git push
 ~~~
 
-Push the changes to the remote repository (choosing the branch) 
+<p> Envia as alterações para o repositório remoto ( escolhendo a branch ) 
+
 ~~~
-git push -u username branch
+git push --set-upstream username branch
 ~~~
 
+</p>
 </a>
 </div>
-
 
 <!-- GIT BRANCH -->
 <div>
@@ -160,39 +132,39 @@ git push -u username branch
   <h2 align="center"> git branch </h2>
 
 
-#### View remote branches:
+#### Ver branches remotas:
 ~~~
 git branch -r
 ~~~
 
-#### View local branches:             
+#### Ver branches local              
 ~~~      
 git branch  
 ~~~
 
-#### Create a new branch:
+#### criar uma nova branch
 ~~~
 git branch [nome-da-branch]
 ~~~    
  
-#### Select a branch:
+#### selecionar uma branch
 ~~~  
-git checkout [branchName] 
+git checkout [nome da branch] 
 ~~~  
 
-#### back to last branch:
+#### voltar para ultima branch
 ~~~ 
 git checkout -  
 ~~~
   
-#### Merge a branch into the current branch:
+#### Mesclagem  de uma branch na branch atual
 ~~~
-git merge [branchName]
+git merge [nome da branch]
 ~~~
 
-#### Merge a branch into another branch:  
+#### Faz um merge de uma branch em outra branch  
 ~~~  
-git merge [source branch] [target branch]  
+git merge [source branch] [branch alvo]  
 ~~~  
 </a>  
 </div>
@@ -202,7 +174,7 @@ git merge [source branch] [target branch]
 <a name="pull">
 <h2> Pull </h2>
 
-Git command used to update the local version of a repository from a remote version:
+comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota
 
 ~~~git
 git pull
