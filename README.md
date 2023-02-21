@@ -29,7 +29,7 @@ usar o diretorio atual como repositorio local
 ~~~
 git init
 ~~~
-Criar um repositorio
+Criar um repositorio local
 ~~~
 git init nameRepository        
 ~~~        
