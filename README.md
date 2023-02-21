@@ -36,6 +36,8 @@ git clone https://linkrepository
 
 </a>
 </div>
+<br>
+
 
 <!-- GIT PULL -->
 <div>
@@ -47,7 +49,7 @@ git clone https://linkrepository
 git pull
 ~~~
         
-<b> Exemplo:  Quando você faz alterações no repositório remoto e modifica os arquivos , ae para atualizar essas modificações no repositório local utilizamos o git pull ) </b>        
+<b> Exemplo:  Quando você faz alterações no repositório remoto e modifica os arquivos , ae para atualizar essas modificações no repositório local utilizamos o git pull </b>        
 </a>
 </div>
 <br>
@@ -56,13 +58,14 @@ git pull
 <div>
 <a name="fetch">
 <h2 align="center"> git fetch </h2>
-<h4 align="center"> Baixar todo o histórico do repositório remoto</h4>
+<h4 align="center"> Baixar todo o histórico de alterações do repositório remoto</h4>
 <br>
-
-O comando "git fetch" é muito utilizado para baixar o histórico de alterações do repositório remoto ( comando utilizado depois do git clone e o git pull)
+        
 ~~~
 git fetch
 ~~~
+<b> Exemplo: Eu quero que todo o histórico de alterações que foram realizados , para isso utilizamos o git fetch </b>        
+        
 </a>
 </div>
 <br> 
