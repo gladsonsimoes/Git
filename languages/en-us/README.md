@@ -1,4 +1,4 @@
-<div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/edit/main/README.md">Português-BR</a></h4></div>
+<div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/blob/main/README.md">Português-BR</a></h4></div>
 
 ---
 
