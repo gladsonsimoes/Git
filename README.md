@@ -41,15 +41,16 @@ git clone https://linkrepository
 <div>
 <a name="pull">
 <h2 align="center"> git pull </h2>
-
-Este comando do Git é para baixar todas as alterações e os arquivos recente que estão no repositório remoto
+<h4 align="center"> Baixar todas as alterações e arquivos que foram atualizado no repositório remoto</h4>        
 
 ~~~git
 git pull
 ~~~
+        
+<b> Exemplo:  Quando você faz alterações no repositório remoto e modifica os arquivos , ae para atualizar essas modificações no repositório local utilizamos o git pull ) </b>        
 </a>
 </div>
-
+<br>
 
 <!-- GIT FETCH -->
 <div>
