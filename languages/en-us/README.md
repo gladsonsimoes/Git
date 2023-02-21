@@ -2,7 +2,7 @@
 
 ---
 
-<div><h1> Git Commands <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
+<div><h1> Git Commands <img align="right" width="50px" src="../../img/icons8-git-48.png"></h1></div>
 
 Important git commands to take as reference, <b> I suggest so that there is no mistake write manually! </b>
 
