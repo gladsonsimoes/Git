@@ -19,7 +19,23 @@ Summary
 
 ---   
 <br>
+<!-- GIT INIT -->
+<div>
+<a name="init">
+<h2 align="center"> git init </h2>
+<h4 align="center"> Inicializar um Repositório Local </h4>
+</a>
+</div>
+<br>
 
+<!-- GIT REMOTE -->
+<div>
+<a name="remote">
+<h2 align="center"> git remote </h2>
+<h4 align="center"> Adicionar o repositorio remoto criado</h4>
+</a>
+</div>
+<br>
 
 <!-- GIT CLONE -->                
 <div>  
