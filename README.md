@@ -36,6 +36,34 @@ git clone https://linkrepository
 
 </a>
 </div>
+
+<!-- GIT PULL -->
+<div>
+<a name="pull">
+<h2 align="center"> git pull </h2>
+
+Este comando do Git é para baixar todas as alterações e os arquivos recente que estão no repositório remoto
+
+~~~git
+git pull
+~~~
+</a>
+</div>
+
+
+<!-- GIT FETCH -->
+<div>
+<a name="fetch">
+<h2 align="center"> git fetch </h2>
+<h4 align="center"> Baixar todo o histórico do repositório remoto</h4>
+<br>
+
+O comando "git fetch" é muito utilizado para baixar o histórico de alterações do repositório remoto ( comando utilizado depois do git clone e o git pull)
+~~~
+git fetch
+~~~
+</a>
+</div>
 <br> 
 
 <br><br> 
@@ -85,7 +113,7 @@ git add -A
 <a name="commit">
 
 <h2 align="center"> git commit </h2>  
-<h4 align="center"> Adiciona as alterações dos arquivos no repositorio local </h4>
+<h4 align="center"> Confirmação das alterações dos arquivos </h4>
 <p> realizar um commit do arquivo </p>
 
 ~~~git
@@ -106,7 +134,7 @@ git log
 <a name="push">
 <br> 
 <h2 align="center"> git push </h2>  
-<h4 align="center"> Enviar as alterações do repositório local para um repositório remoto </h4>  
+<h4 align="center"> Enviar a confirmação do repositório local para o repositório remoto </h4>  
 <br>        
   
 Envia as alterações para o repositório remoto  ( branch atual escolhida ):
@@ -118,7 +146,7 @@ git push
 <p> Envia as alterações para o repositório remoto ( escolhendo a branch ) 
 
 ~~~
-git push --set-upstream username branch
+git push -u username branch
 ~~~
 
 </p>
@@ -169,15 +197,3 @@ git merge [source branch] [branch alvo]
 </a>  
 </div>
 
-<!-- GIT PULL -->
-<div>
-<a name="pull">
-<h2> Pull </h2>
-
-comando do Git usado para atualizar a versão local de um repositório a partir de uma versão remota
-
-~~~git
-git pull
-~~~
-</a>
-</div>
