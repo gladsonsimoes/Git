@@ -2,24 +2,44 @@
 
 Primeiramente tenha um repositorio local inicializado ou clonado para começar a realizar adição ou alterações!
 
-Com o repositório aberto você terá que usar o seguinte comando para poder adicionar os arquivos e as alterações:
+---
 
+### 1- Adicione os arquivos:
+
+#### Adicionar todos os arquivos:
+
+Adicionar todos os arquivos que foram alterados e adicionados
 ~~~
 git add .
 ~~~
 
-depois de ter dado o comando para adicionar os arquivos e as alterações , terá que confirmar as alterações com o seguinte comando:
+#### Adicionar somente a alteração do arquivo desejado 
+~~~
+git add <arquivo>
+~~~
 
+---
+
+### 2 - Faça a anotação com o commit:
+
+#### Anotar os arquivos adicionados
 ~~~
 git commit -a -m "Mensagem da confirmação"
 ~~~
 
-e logo após a confirmação você irá lançar para o repositório remoto:
+---
 
+### 3 - Faça o envio das alterações
+
+#### na branch main:
 ~~~
-git push
+git push origin main
 ~~~
-ou se preferir definir salvar na branch desejada:
+
+#### na branch que deseja
 ~~~
-git push -u username branch
+git push origin [branch name]
 ~~~
+
+
+
