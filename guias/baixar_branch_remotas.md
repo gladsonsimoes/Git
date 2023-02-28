@@ -23,4 +23,7 @@ git branch -a
 git checkout <branchRemota>
 ~~~
 
+---
+Vídeos explicativos:
+https://www.youtube.com/watch?v=DtltWjEnNQI
 
