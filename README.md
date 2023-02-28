@@ -204,6 +204,11 @@ git push -u username branch
 git branch -r
 ~~~
 
+### Sicronizar as branches remota 
+~~~
+git branch -a
+~~~
+
 #### Ver branches local              
 ~~~      
 git branch  
