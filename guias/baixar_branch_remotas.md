@@ -1,22 +1,24 @@
-Antes dos comandos você terá que baixar um repositório remoto utilizando:
-~~~
-git clone <repository>
-~~~
+### Faça os seguintes procedimento para não ter erro
 
----
-
-Primeiro atualize o repositório local com o repositorio remoto
-
+Primeiro atualize o repositório local com o repositorio remoto que foi clonado
 ~~~
 git fetch --prune --all
 ~~~
 
-depois verfique as branches remotas sicronizadas:
+Depois baixe todas as alterações remotas:
+~~~
+git pull --all
+~~~
+
+---
+## Após os comandos acimas:
+
+1- sicronize as branches remotas:
 ~~~
 git branch -a
 ~~~
 
-selecione a branch remota que você viu no comando anterior , com:
+2- selecione a branch remota que você viu no comando anterior , com:
 ~~~
 git checkout <branchRemota>
 ~~~
