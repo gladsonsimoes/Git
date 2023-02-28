@@ -84,7 +84,7 @@ Baixar todas alterações de todas as branches
 git pull --all
 ~~~
 
-Baixar as alterações da branch main na branch atual 
+Baixar as alterações da branch main na branch escolhida 
 ~~~
 git pull origin main
 ~~~
