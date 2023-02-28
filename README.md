@@ -176,7 +176,6 @@ git log
 <br>        
   
 Envia as alterações para o repositório remoto  ( branch atual escolhida ):
-
 ~~~
 git push
 ~~~
@@ -184,7 +183,12 @@ git push
 <p> Envia as alterações para o repositório remoto ( escolhendo a branch ) 
 
 ~~~
-git push -u username branch
+git push -u username [branch name]
+~~~
+
+Enviar uma ramificação por push para o repositório remoto
+~~~
+git push origin [branch name]
 ~~~
 
 </p>
