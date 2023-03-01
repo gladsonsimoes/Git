@@ -14,3 +14,9 @@ lancar remotamente:
 ~~~
 git push
 ~~~
+
+~~~
+git checkout main
+git merge <branch>
+git push
+~~~
