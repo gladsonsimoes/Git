@@ -15,6 +15,8 @@ lancar remotamente:
 git push
 ~~~
 
+### outra forma tbm:
+
 ~~~
 git checkout main
 git merge <branch>
