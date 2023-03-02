@@ -2,8 +2,8 @@
 
 ### Configurar usuario:
 
-<a href="adicionar_usuario.md"> adicionar Usuario </a> <br>
-<a href="remover_usuario.md"> adicionar Usuario </a> <br>
+<a href="adicionar_usuario.md"> Adicionar Usuario </a> <br>
+<a href="remover_usuario.md"> Remover Usuario </a> <br>
 
 #### Como inicializar um repositório local git e vincular no repositório remoto
 
