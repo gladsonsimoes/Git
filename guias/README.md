@@ -12,9 +12,9 @@
 ## Utilizando o git:
 <b>
 
-<a href="como_inicializar_um_repositorio.md"> Como inicializar um repositório local git e vincular no repositório remoto </a><br>
+<a href="como_inicializar_um repositório.md"> Como inicializar um repositório local git e vincular no repositório remoto </a><br>
 
-<a href="">  Como Clonar um repositório </a><br>
+<a href="git_clone">  Como Clonar um repositório </a><br>
 
 <a href=""> Adicionar arquivos e alterações locais para o repositório clonado do github  </a><br>
 
