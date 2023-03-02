@@ -39,7 +39,7 @@ git commit -a -m "Mensagem da confirmação"
 git push origin main
 ~~~
 
-#### na branch que deseja
+#### ou na branch que deseja
 ~~~
 git push origin [branch name]
 ~~~
