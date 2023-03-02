@@ -1,12 +1,18 @@
 <div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/blob/main/languages/en-us/README.md">English</a></h4></div>
 <hr>
+
+<div align="center">
+<h3><a href="guias/README.md"> Veja algumas guias para ajuda  </a> </h3>
+</div>
+<hr>
+
+<br>
 <div><h1> Comandos Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
 <p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
 <hr>
 
 
-<a href="guias/README.md"> Guias  </a> <br><br>
 <a href="Configuração&Diretório.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
