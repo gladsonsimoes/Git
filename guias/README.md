@@ -16,8 +16,8 @@
 
 <a href="git_clone">  Como Clonar um repositório </a><br>
 
-<a href=""> Adicionar arquivos e alterações locais para o repositório clonado do github  </a><br>
+<a href="adicionar_arquivos_no_repositorio_remoto.md"> Adicionar arquivos e alterações locais para o repositório clonado do github  </a><br>
 
-<a href=""> Baixar branches remotas </a>
+<a href="merge_branch_remote.md"> Baixar branches remotas </a>
 
 </b>
