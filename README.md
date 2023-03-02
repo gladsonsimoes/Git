@@ -5,6 +5,8 @@
 <p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
 <hr>
 
+
+<a href="guias/README.md"> Guias  </a> <br><br>
 <a href="Configuração&Diretório.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
