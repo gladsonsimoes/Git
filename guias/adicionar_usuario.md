@@ -1,6 +1,6 @@
 ## Adicionar usuario global
 
-### veja se tem um usuário , se caso tiver remova <a href=""> Veja como remover</a>
+### veja se tem um usuário , se caso tiver remova <a href="remover_usuario.md"> Veja como remover</a>
 
 git config --list --global
 
