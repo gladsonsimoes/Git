@@ -2,7 +2,7 @@
 <hr>
 
 <div align="center">
-<h3><a href="guias/README.md"> Veja algumas guias para ajuda  </a> </h3>
+<h3><a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"> Veja algumas guias para ajuda  </a> </h3>
 </div>
 <hr>
 
@@ -13,7 +13,7 @@
 <hr>
 
 
-<a href="Configuração&Diretório.md"><b> Configurar conta e comandos de pasta</b></a>
+<a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
 Summary 
