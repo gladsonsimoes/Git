@@ -6,14 +6,17 @@ Primeiramente tenha um repositorio local inicializado ou clonado para começar a
 
 ### 1- Adicione os arquivos:
 
-#### Adicionar todos os arquivos:
+##### Adicionar todos os arquivos:
 
 Adicionar todos os arquivos que foram alterados e adicionados
 ~~~
 git add .
 ~~~
 
-#### Adicionar somente a alteração do arquivo desejado 
+### Ou se for o arquivo para comitar em especifico:
+
+
+##### Adicionar somente a alteração do arquivo desejado 
 ~~~
 git add <arquivo>
 ~~~
