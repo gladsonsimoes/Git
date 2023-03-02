@@ -1,16 +1,23 @@
-## Guia dos comandos git:
+<h1 align="center"> Guia dos comandos git </h1>
 
-### Configurar usuario:
+<br>
 
+## Configurar usuário:
+<b>
 <a href="adicionar_usuario.md"> Adicionar Usuario </a> <br><br>
 <a href="remover_usuario.md"> Remover Usuario </a> <br>
-
+</b>
 <hr>
 
-#### Como inicializar um repositório local git e vincular no repositório remoto
+## Utilizando o git:
+<b>
 
-#### Como Clonar um repositório
+<a href="como_inicializar_um_repositorio.md"> Como inicializar um repositório local git e vincular no repositório remoto </a><br>
 
-#### Adicionar arquivos e alterações locais para o repositório clonado do github  
+<a href="">  Como Clonar um repositório </a><br>
 
-#### Baixar branches remotas
+<a href=""> Adicionar arquivos e alterações locais para o repositório clonado do github  </a><br>
+
+<a href=""> Baixar branches remotas </a>
+
+</b>
