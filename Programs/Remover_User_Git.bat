@@ -8,9 +8,9 @@ git config --global --unset user.email
 
 cls 
 
-echo =============================
-echo Usuario Removido com Sucesso!  
-echo =============================
+echo =============================================
+echo         Usuario Removido com Sucesso!  
+echo =============================================
 echo.
 echo.
 echo Confira se foi:
