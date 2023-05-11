@@ -16,18 +16,23 @@
 <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
-<h4> Summary </h4> 
+### Sumário:
 
-##### Sicronizar Repositorio 
-- <a href="#init"> Init - Inicializar um repositorio git</a><br>        
-- <a href="#clone"> Clone - Clonar repositório remoto </a><br>
+##### Criar Repositorio Local
+- <a href="#init"> Init - Inicializar um repositorio git localmente </a><br>
+
+##### Baixar Repositório remoto
+- <a href="#clone"> Clone - Baixar repositório remoto </a><br>  
+
+##### Sicronizar Repositorio  
+- <a href="#remote"> Remote - criar conexao local com a remota </a><br>  
 - <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 - <a href="#fetch"> Fetch - sicronizar os commits do repositório remoto </a><br>
 
-##### Enviar arquivos confirmados
-- <a href="#addFiles"> Add - Adicionar arquivo </a><br>
-- <a href="#commit"> Commit - confirmação do arquivo</a><br>
-- <a href="#push"> Push - Enviar a confirmação para o repositorio remoto </a><br>
+##### Enviar arquivos e alterações
+- <a href="#addFiles"> Add - Adicionar arquivo ou alterações </a><br>
+- <a href="#commit"> Commit - confirmação do arquivo ou alterações </a><br>
+- <a href="#push"> Push - Enviar confirmação para o repositorio remoto </a><br>
 
 ##### Ramificação 
 
