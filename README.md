@@ -16,14 +16,23 @@
 <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
-Summary 
+<h4> Summary </h4> 
 
-- <a href="#clone"> Clone - Clonar um repositório remoto </a><br>
-- <a href="#addFiles"> Add - Adicionar arquivos </a><br>
-- <a href="#commit"> Commit - Fazer Anotação dos arquivos</a><br>
-- <a href="#push"> Push - Enviar os arquivo anotados para repositorio remoto </a><br>
-- <a href="#branch"> Branch - Controle de ramificações </a><br>
+##### Sicronizar Repositorio 
+- <a href="#init"> Init - Inicializar um repositorio git</a><br>        
+- <a href="#clone"> Clone - Clonar repositório remoto </a><br>
 - <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
+- <a href="#fetch"> Fetch - sicronizar os commits do repositório remoto </a><br>
+
+##### Enviar arquivos confirmados
+- <a href="#addFiles"> Add - Adicionar arquivo </a><br>
+- <a href="#commit"> Commit - confirmação do arquivo</a><br>
+- <a href="#push"> Push - Enviar a confirmação para o repositorio remoto </a><br>
+
+##### Ramificação 
+
+- <a href="#branch"> Branch - Controle de ramificações </a><br>
+- <a href="#checkout"> Checkout - Selecionar branch </a><br>    
 
 ---   
 <br>
@@ -33,11 +42,11 @@ Summary
 <h2 align="center"> git init </h2>
 <h4 align="center"> Inicializar um Repositório Local </h4>
         
-usar o diretorio atual como repositorio local        
+Inicializar repositorio local com o diretorio atual    
 ~~~
 git init
 ~~~
-Criar um repositorio local
+Criar um repositorio local com nome de escolha
 ~~~
 git init nameRepository        
 ~~~        
@@ -241,17 +250,26 @@ git branch
 ~~~
 git branch [nome-da-branch]
 ~~~    
- 
+        
+<!-- GIT CHECKOUT --> 
+<a name="branch">
+<br>
+<h2 align="center"> git checkout </h2>
+<h4 align="center"> Selecionar Branch </h4>        
+<br>
+        
 #### selecionar uma branch
 ~~~  
-git checkout [nome da branch] 
+git checkout nomeDaBranch 
 ~~~  
 
-#### voltar para ultima branch
+#### voltar para ultima branch selecionada
 ~~~ 
 git checkout -  
 ~~~
-  
+        
+</a>
+        
 #### Mesclagem  de uma branch na branch atual
 ~~~
 git merge [nome da branch]
