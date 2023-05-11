@@ -32,7 +32,8 @@
 ##### Ramificação 
 
 - <a href="#branch"> Branch - Controle de ramificações </a><br>
-- <a href="#checkout"> Checkout - Selecionar branch </a><br>    
+- <a href="#checkout"> Checkout - Selecionar branch </a><br>  
+- <a href="#merge"> Merge - Merge Branch - Mesclar Ramificação </a><br>     
 
 ---   
 <br>
@@ -250,9 +251,11 @@ git branch
 ~~~
 git branch [nome-da-branch]
 ~~~    
+
+</a> 
         
 <!-- GIT CHECKOUT --> 
-<a name="branch">
+<a name="checkout">
 <br>
 <h2 align="center"> git checkout </h2>
 <h4 align="center"> Selecionar Branch </h4>        
@@ -269,7 +272,13 @@ git checkout -
 ~~~
         
 </a>
-        
+
+<!-- GIT MERGE --> 
+<a name="merge">
+<br>
+<h2 align="center"> git merge </h2>
+<h4 align="center"> Mesclar Ramificação - Merge Branch </h4>        
+<br>        
 #### Mesclagem  de uma branch na branch atual
 ~~~
 git merge [nome da branch]
