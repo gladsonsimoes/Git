@@ -40,7 +40,7 @@
 - <a href="#push"> Push - Enviar confirmação para o repositorio remoto </a><br>
 
 #### Ver Confirmações
-- - <a href="#log"> Log - Ver confirmações enviadas </a><br>
+- <a href="#log"> Log - Ver confirmações enviadas </a><br>
 
 ##### Ramificação 
 - <a href="#branch"> Branch - Controle de ramificações </a><br>
