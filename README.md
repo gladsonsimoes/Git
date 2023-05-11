@@ -29,13 +29,12 @@
 - <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 - <a href="#fetch"> Fetch - sicronizar os commits do repositório remoto </a><br>
 
-##### Enviar arquivos e alterações
+##### Adicionar e enviar arquivos e alterações
 - <a href="#addFiles"> Add - Adicionar arquivo ou alterações </a><br>
 - <a href="#commit"> Commit - confirmação do arquivo ou alterações </a><br>
 - <a href="#push"> Push - Enviar confirmação para o repositorio remoto </a><br>
 
 ##### Ramificação 
-
 - <a href="#branch"> Branch - Controle de ramificações </a><br>
 - <a href="#checkout"> Checkout - Selecionar branch </a><br>  
 - <a href="#merge"> Merge - Merge Branch - Mesclar Ramificação </a><br>     
