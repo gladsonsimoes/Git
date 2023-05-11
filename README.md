@@ -24,7 +24,7 @@
 ##### Baixar Repositório remoto
 - <a href="#clone"> Clone - Baixar repositório remoto </a><br>  
 
-##### Sicronizar Repositorio  
+##### Sicronização
 - <a href="#remote"> Remote - criar conexao local com a remota </a><br>  
 - <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
 - <a href="#fetch"> Fetch - sicronizar os commits do repositório remoto </a><br>
