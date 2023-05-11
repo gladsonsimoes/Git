@@ -32,7 +32,15 @@
 ##### Adicionar e enviar arquivos e alterações
 - <a href="#addFiles"> Add - Adicionar arquivo ou alterações </a><br>
 - <a href="#commit"> Commit - confirmação do arquivo ou alterações </a><br>
+
+##### Verificar arquivos confirmados
+- <a href="#status"> Status - Verificar arquivos que foram confirmados</a>
+
+##### Enviar os arquivos confirmados
 - <a href="#push"> Push - Enviar confirmação para o repositorio remoto </a><br>
+
+#### Ver Confirmações
+- - <a href="#log"> Log - Ver confirmações enviadas </a><br>
 
 ##### Ramificação 
 - <a href="#branch"> Branch - Controle de ramificações </a><br>
@@ -198,6 +206,32 @@ git log
 ~~~
 
 </a>
+</div>
+
+<!-- GIT STATUS -->
+<div>
+<a name="status">
+<h2 align="center"> git status </h2>  
+<h4 align="center"> ver arquivos confirmados </h4>
+
+~~~git
+git status
+~~~
+
+</a>      
+</div>
+
+<!-- GIT LOG -->
+<div>
+<a name="status">
+<h2 align="center"> git log </h2>  
+<h4 align="center"> ver as ultimas confirmações </h4>
+
+~~~git
+git log
+~~~
+
+</a>      
 </div>
 
 <!-- GIT PUSH -->
