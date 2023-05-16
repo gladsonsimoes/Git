@@ -22,6 +22,11 @@ git config -–global user.email youremail@email.com
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
+    
+#### add credentials:
+```
+git config credential.username yourUsernameGithub
+```
 
 ### Remover email e nickname
       
