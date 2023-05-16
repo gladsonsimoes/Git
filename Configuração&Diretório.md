@@ -37,6 +37,12 @@ git config -–global -–unset user.email
 ~~~
 git config -–global -–unset user.name 
 ~~~ 
+    
+#### Remover crendetials:
+```
+git config --unset credential.username 
+```
+    
 
 <!-- #### Para substituir o nome de usuário e e-mail, basta usar o comando acima ou ir até o arquivo .gitconfig e alterar o nome e o e-mail  -->
 
