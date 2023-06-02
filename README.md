@@ -76,7 +76,7 @@ git init nameRepository
         
 Comando para definir o repositorio remoto 
 ~~~
-git remote add userNameGithub https://github.com/user/yourRepository.git
+git remote add origin https://github.com/yourUser/project.git
 ~~~   
 </a>
 </div>
