@@ -1,4 +1,7 @@
-## Guia básico de como inicializar um repositório local e enviar para o github
+# Guia básico de como inicializar um repositório local e enviar para o github
+
+
+## Initialize  
 
 ### 1 - change directory repository
 ~~~
@@ -10,31 +13,32 @@ cd directoryProject
 git init
 ~~~
 
-### 3 -add files
+
+## Send Project 
+
+### 1 -add files
 ~~~
 git add .
 ~~~
 
-### 4 -commit files
+### 2 -commit files
 ~~~
 git commit -m "first commit"
 ~~~
 
-### 5 - add branch main
+### 3 - add branch main
 ~~~
 git branch -M main
 ~~~
 
-## Send Project 
+### 4 - create new Repository Github
 
-### 1 - create new Repository Github
-
-### 2 - copy repository url , and add after origin
+### 5 - copy repository url , and add after origin
 ~~~
 git remote add origin https://github.com/yourUser/project.git
 ~~~
 
-### 3 - verifiy credetials and push project
+### 6 - verifiy credetials and push project
 ~~~
 git push -u origin main
 ~~~
