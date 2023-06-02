@@ -4,28 +4,41 @@
 
 ---
 
-### change directory repository
+### 1 - change directory repository
 ~~~
 cd directoryProject
 ~~~
 
-### Initialize local repository
+### 2 - Initialize local repository
 ~~~
 git init
 ~~~
 
-### add files
+### 3 -add files
 ~~~
 git add .
 ~~~
 
-### commit 
+### 4 -commit files
 ~~~
 git commit -m "first commit"
 ~~~
 
-### add branch main
+### 5 - add branch main
 ~~~
 git branch -M main
 ~~~
 
+## Send Project 
+
+### 1 - create new Repository Github
+
+### 2 - copy repository url , and add after origin
+~~~
+git remote add origin https://github.com/yourUser/project.git
+~~~
+
+### 3 - verifiy credetials and push project
+~~~
+git push -u origin main
+~~~
