@@ -7,7 +7,7 @@
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/adicionar_usuario.md"> Adicionar Usuario </a> <br>
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/remover_usuario.md"> Remover Usuario </a> <br>
 - ### <a href="https://docs.github.com/pt/authentication/managing-commit-signature-verification/signing-commits"> Verificar Commits </a>
-
+- ### <a href="arquives/remover_alteracoes_futuras_gitignore.md"> Remover commits futuros gitignore </a>
 <hr>
 
 ## Utilizando o git:
