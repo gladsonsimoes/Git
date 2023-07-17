@@ -1,3 +1,9 @@
+
+para uma pasta que irá receber arquivos futuros e deseja ignorar
+~~~
+pasta/*
+~~~
+
 para um arquivo que será ignorado para commitar
 
 ~~~
