@@ -1,6 +1,3 @@
-<div><h4> Languages: <a href="https://github.com/gladsonsimoes/git/blob/main/languages/en-us/README.md">English</a></h4></div>
-<hr>
-
 <div align="center">
 <h2><a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"> Veja algumas guias para ajuda  </a> </h2>
 </div>
