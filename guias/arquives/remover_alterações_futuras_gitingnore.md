@@ -1,17 +1,37 @@
+## exemplos de comando do gitignore
 
-para uma pasta que irá receber arquivos futuros e deseja ignorar
-~~~
+~~~gitignore
+## ignorar um diretório:
+pasta/
+
+## ignorar um diretório oculto:
+.pasta/
+
+## ignorar arquivos futuros dentro do diretório:
 pasta/*
+
+## ignorar os arquivos com o tipo de extensão (definir qual formato dos arquivos que será ignorado):
+.html
 ~~~
 
-para um arquivo que será ignorado para commitar
+## Comando git 
 
+### Limpar cache
+atualizar a definição para ignorar caso o arquivo exista:
+
+arquivo:
 ~~~
 git rm -r --cached arquive
 ~~~
 
-para diretorio pode ser assim:
+diretório:
+~~~
+git rm -r --cached directory/
+~~~
 
+acessar o diretório e o arquivo:
 ~~~
 git rm -r --cached directory/arquive
 ~~~
+
+
