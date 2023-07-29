@@ -2,7 +2,7 @@
 <hr>
 
 <div align="center">
-<h3><a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"> Veja algumas guias para ajuda  </a> </h3>
+<h2><a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"> Veja algumas guias para ajuda  </a> </h2>
 </div>
 <hr>
 
