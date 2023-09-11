@@ -1,13 +1,13 @@
 <br>
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-<p>Guias básicos e principais comandos do git </p>
-<hr>
+<p> Guias básicos e principais comandos do git </p>
 
 - <a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"><b> Guias básicos <b></a>
 <!-- - <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a> -->
 - <a href="comandos/README.md"><b> Ver todos os comandos</b> </a><br>
 
+---
 ## Comandos:
 
 #### Criar Repositorio Local:
