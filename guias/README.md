@@ -11,9 +11,10 @@
 
 ## Utilizando o git:
 
+- ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/como_inicializar_um%20reposit%C3%B3rio.md"> Como inicializar um repositório local e enviar para o github </a>
 - ### <a href="arquives/remover_alterações_futuras_gitingnore.md"> Gitignore - Ignorar commits </a>
 
-- ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/como_inicializar_um%20reposit%C3%B3rio.md"> Como inicializar um repositório local git e vincular no repositório remoto </a><br>
+
 
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/git_clone.md">  Como Clonar um repositório </a><br>
 
