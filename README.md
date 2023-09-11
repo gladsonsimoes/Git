@@ -13,7 +13,9 @@
 <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
-### Sumário:
+### <a href="comandos/README.md"> Ver todos os comandos </a><br>
+
+### Comandos:
 
 #### Criar Repositorio Local
 - #### <a href="#init"> Init - Inicializar um repositorio git localmente </a><br>
