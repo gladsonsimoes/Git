@@ -1,4 +1,4 @@
-<h1 align="center"> Guia dos comandos git </h1>
+<h1 align="center"> Guia básico git </h1>
 
 <br>
 
