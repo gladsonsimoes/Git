@@ -1,4 +1,3 @@
-<br>
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
 <p> Guias básicos e principais comandos do git </p>
