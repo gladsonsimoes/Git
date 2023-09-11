@@ -1,3 +1,7 @@
+<h1 align="center"> Comandos para Configuração do Git </h1>
+
+---
+<h1 align="center"> Comandos de uso </h1>
 <br>
 <!-- GIT INIT -->
 <div>
