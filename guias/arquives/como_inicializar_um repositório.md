@@ -1,4 +1,4 @@
-# Guia básico de como inicializar um repositório local e enviar para o github
+# Como inicializar um repositório local e enviar para o github
 
 
 ## Initialize  
