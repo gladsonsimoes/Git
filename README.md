@@ -19,7 +19,7 @@
 ### Comandos:
 
 #### Criar Repositorio Local
-- #### <a href="#init"> Init - Inicializar um repositorio git localmente </a><br>
+- #### <a href="comandos/comandos_de_uso/git_init.md"> Init - Inicializar um repositorio git localmente </a><br>
 
 #### Baixar Repositório remoto
 - #### <a href="#clone"> Clone - Baixar repositório remoto </a><br>  
