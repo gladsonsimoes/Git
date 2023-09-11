@@ -13,7 +13,8 @@
 <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
 <hr>
 
-### <a href="comandos/README.md"> Ver todos os comandos </a><br>
+#### <a href="comandos/README.md"> Ver todos os comandos </a><br>
+<hr>
 
 ### Comandos:
 
