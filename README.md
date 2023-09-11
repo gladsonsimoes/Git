@@ -1,13 +1,15 @@
+<br>
+<div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
+
+<p>Guias básicos e principais comandos do git </p>
+<hr>
+
 <div align="center">
 <h2><a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"> Ver guias para ajuda  </a> </h2>
 </div>
 <hr>
 
-<br>
-<div><h1> Comandos Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-<p>Comandos importantes do git para pegar como referência,  <b> sugiro para que não haja erro escreva manualmente!</b> </p>
-<hr>
 
 
 <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a>
