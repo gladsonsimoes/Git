@@ -2,7 +2,7 @@
 
 <br>
 
-## Configurar usuário:
+## Configurar usuário git:
 
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/adicionar_usuario.md"> Adicionar Usuario </a> <br>
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/remover_usuario.md"> Remover Usuario </a> <br>
