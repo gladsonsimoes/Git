@@ -17,7 +17,8 @@ Criar um repositorio local com nome de escolha
 ~~~
 git init nameRepository        
 ~~~        
-     
+
+---     
 </a>
 </div>
 <br>
@@ -36,6 +37,7 @@ git remote add origin https://github.com/yourUser/project.git
 </div>
 <br>
 
+---
 <!-- GIT CLONE -->                
 <div>  
 <a name="clone">         
@@ -61,7 +63,7 @@ git clone --recursive link_of_repo
 </div>
 <br>
 
-
+---
 <!-- GIT PULL -->
 <div>
 <a name="pull">
@@ -83,6 +85,7 @@ git pull origin main
 </div>
 <br>
 
+---
 <!-- GIT FETCH -->
 <div>
 <a name="fetch">
@@ -101,6 +104,7 @@ git fetch
 
 <br><br> 
 
+---
 <!-- GIT ADD -->
 <div>
 <a name="addFiles"></a>
@@ -141,6 +145,7 @@ git add -A
 
 <br><br>
 
+---
 <!-- GIT COMMIT -->
 <div>
 <a name="commit">
@@ -162,6 +167,7 @@ git log
 </a>
 </div>
 
+---
 <!-- GIT STATUS -->
 <div>
 <a name="status">
@@ -175,6 +181,7 @@ git status
 </a>      
 </div>
 
+---
 <!-- GIT LOG -->
 <div>
 <a name="status">
@@ -188,6 +195,7 @@ git log
 </a>      
 </div>
 
+---
 <!-- GIT PUSH -->
 <div>
 <a name="push">
@@ -216,6 +224,7 @@ git push origin [branch name]
 </a>
 </div>
 
+---
 <!-- GIT BRANCH -->
 <div>
 <a name="branch">
@@ -245,7 +254,8 @@ git branch [nome-da-branch]
 ~~~    
 
 </a> 
-        
+
+---        
 <!-- GIT CHECKOUT --> 
 <a name="checkout">
 <br>
@@ -265,6 +275,7 @@ git checkout -
         
 </a>
 
+---
 <!-- GIT MERGE --> 
 <a name="merge">
 <br>
