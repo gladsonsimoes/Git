@@ -22,29 +22,29 @@
 - #### <a href="comandos/comandos_de_uso/git_init.md"> Init - Inicializar um repositorio git localmente </a><br>
 
 #### Baixar Repositório remoto
-- #### <a href="#clone"> Clone - Baixar repositório remoto </a><br>  
+- #### <a href="comandos/comandos_de_uso/git_clone.md"> Clone - Baixar repositório remoto </a><br>  
 
 #### Sicronização
-- #### <a href="#remote"> Remote - criar conexao local com a remota </a><br>  
-- #### <a href="#pull"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
-- #### <a href="#fetch"> Fetch - sicronizar os commits do repositório remoto </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_remote.md"> Remote - criar conexao local com a remota </a><br>  
+- #### <a href="/comandos/comandos_de_uso/git_pull.md"> Pull - atualizar a versão local de um repositório a partir de uma versão remota </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_fetch.md"> Fetch - sicronizar os commits do repositório remoto </a><br>
 
 #### Adicionar e enviar arquivos e alterações
-- #### <a href="#addFiles"> Add - Adicionar arquivo ou alterações </a><br>
-- #### <a href="#commit"> Commit - confirmação do arquivo ou alterações </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_add.md"> Add - Adicionar arquivo ou alterações </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_commit.md"> Commit - confirmação do arquivo ou alterações </a><br>
 
 #### Verificar arquivos confirmados
-- #### <a href="#status"> Status - Verificar arquivos que foram confirmados</a>
+- #### <a href="/comandos/comandos_de_uso/git_status.md"> Status - Verificar arquivos que foram confirmados</a>
 
 #### Enviar os arquivos confirmados
-- #### <a href="#push"> Push - Enviar confirmação para o repositorio remoto </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_push.md"> Push - Enviar confirmação para o repositorio remoto </a><br>
 
 #### Ver Confirmações
-- #### <a href="#log"> Log - Ver confirmações enviadas </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_log.md"> Log - Ver confirmações enviadas </a><br>
 
 #### Ramificação 
-- #### <a href="#branch"> Branch - Controle de ramificações </a><br>
-- #### <a href="#checkout"> Checkout - Selecionar branch </a><br>  
-- #### <a href="#merge"> Merge - Merge Branch - Mesclar Ramificação </a><br>     
+- #### <a href="/comandos/comandos_de_uso/git_branch.md"> Branch - Controle de ramificações </a><br>
+- #### <a href="/comandos/comandos_de_uso/git_checkout.md"> Checkout - Selecionar branch </a><br>  
+- #### <a href="/comandos/comandos_de_uso/git_merge.md"> Merge - Merge Branch - Mesclar Ramificação </a><br>     
 
 
