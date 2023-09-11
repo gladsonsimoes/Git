@@ -17,7 +17,7 @@
 
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/git_clone.md">  Como Clonar um repositório </a><br>
 
-- ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/adicionar_arquivos_no_repositorio_remoto.md"> Adicionar arquivos e alterações locais para o repositório clonado do github  </a><br>
+- ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/adicionar_arquivos_no_repositorio_remoto.md"> Guia básico de como inicializar um repositório local e enviar para o github  </a><br>
 
 - ### <a href="https://github.com/gladsonsimoes/git/blob/main/guias/arquives/merge_branch_remote.md"> Baixar branches remotas </a>
 
