@@ -2,9 +2,11 @@
 
 <p> Guias básicos e principais comandos do git </p>
 
-- <a href="https://github.com/gladsonsimoes/git/blob/main/guias/README.md"><b> Guias básicos <b></a>
+- <a href="/guias/git-config.md"><b> Configurar o git com sua conta <b></a>
+
+- <a href="/guias/README.md"><b> Guias básicos <b></a>
+- <a href="comandos/README.md"><b> Ver todos os comandos</b> </a>
 <!-- - <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a> -->
-- <a href="comandos/README.md"><b> Ver todos os comandos</b> </a><br>
 
 ---
 ## Comandos:
