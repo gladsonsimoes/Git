@@ -1,7 +1,9 @@
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
 <p> Guias básicos e principais comandos do git </p>
+<hr>
 
+## Guias:
 - <a href="/guias/git-config.md"><b> Configurar conta no git e credenciais <b></a>
 
 - <a href="/guias/README.md"><b> Guias básicos para usar o git <b></a>
