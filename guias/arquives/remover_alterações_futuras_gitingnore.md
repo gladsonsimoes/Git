@@ -1,6 +1,7 @@
 ## Criar arquivo gitignore 
-crie um arquivo chamado <b> .gitignore </b>
+crie um arquivo chamado <b> .gitignore </b> no diretório em que deseja ignorar as alterações futuras.
 
+Dentro do arquivo criado colocamos os caminhos e o nome do arquivo das alterações que serão ignorada.
 ## exemplos de comando do gitignore
 
 ~~~gitignore
