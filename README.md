@@ -5,7 +5,7 @@
 
 ## Guias:
 
-- <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git"> Instalar Git </a>
+- <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git"><b> Instalar Git </b></a>
 
 - <a href="/guias/git-config.md"><b> Configurar conta de usuario e credenciais no git <b></a>
 
