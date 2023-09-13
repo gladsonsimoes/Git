@@ -5,7 +5,7 @@
 - <a href="/guias/git-config.md"><b> Configurar sua conta no git e credenciais <b></a>
 
 - <a href="/guias/README.md"><b> Guias básicos <b></a>
-- <a href="comandos/README.md"><b> Ver todos os comandos</b> </a>
+- <a href="comandos/README.md"><b> Ver todos os comandos do git</b> </a>
 <!-- - <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a> -->
 
 ---
