@@ -4,7 +4,7 @@
 <hr>
 
 ## Guias:
-- <a href="/guias/git-config.md"><b> Configurar conta no git e credenciais <b></a>
+- <a href="/guias/git-config.md"><b> Configurar conta de usuario e credenciais no git <b></a>
 
 - <a href="/guias/README.md"><b> Guias básicos para usar o git <b></a>
 
