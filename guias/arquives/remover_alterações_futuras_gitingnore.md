@@ -17,7 +17,7 @@ pasta/*
 ## Comando git 
 
 ### Limpar cache
-atualizar a definição para ignorar caso o arquivo exista:
+atualizar a definição feita no gitignore caso o arquivo exista:
 
 arquivo:
 ~~~
