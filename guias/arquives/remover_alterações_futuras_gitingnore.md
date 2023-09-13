@@ -1,3 +1,6 @@
+## Criar arquivo gitignore 
+crie um arquivo chamado <b> .gitignore </b>
+
 ## exemplos de comando do gitignore
 
 ~~~gitignore
