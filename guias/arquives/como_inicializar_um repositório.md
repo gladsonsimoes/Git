@@ -22,7 +22,7 @@ git init
 git add .
 ~~~
 
-### 2 - commit - confirmação dos arquivos e alterações adicionados
+### 2 - commit (confirmação dos arquivos e alterações adicionados)
 ~~~
 git commit -m "mensagem de confirmação"
 ~~~
