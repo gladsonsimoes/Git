@@ -24,7 +24,7 @@ git add .
 
 ### 2 - commit - confirmação dos arquivos e alterações adicionados
 ~~~
-git commit -m "first commit"
+git commit -m "mensagem de confirmação"
 ~~~
 
 ### 3 - adicionar uma branch main
