@@ -1,6 +1,6 @@
 # Como inicializar um repositório local e enviar para o github
 Intruções para enviar um repositório local para o repositório remoto no github <br><br>
-ATENÇÃO: para os procedimentos derem certos verifique as credenciais do git se caso estiver com uma credencial REMOVA , caso não saiba remover <a href="https://horadecodar.com.br/como-remover-as-credenciais-do-git/"> clique aqui e veja como remover as credenciais </a>
+ATENÇÃO: para os procedimentos derem certos verifique as credenciais do git se caso estiver com uma credencial REMOVA , caso não saiba remover <a href="https://horadecodar.com.br/como-remover-as-credenciais-do-git/"> clique aqui e veja como remover as credenciais através de um comando git </a>
 
 ---
 ## Iniciar Repositório Local:
