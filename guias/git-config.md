@@ -5,6 +5,6 @@
 
 ## Credencial
 
-- ### <a href="https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer"> como fazer a autenticação por token </a><br>
+- ### <a href="https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer"> Autenticação por token </a><br>
 - ### <a href="https://horadecodar.com.br/como-remover-as-credenciais-do-git/"> Remover Credenciais do Git </a> <br>
 
