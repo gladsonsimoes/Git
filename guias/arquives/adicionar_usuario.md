@@ -13,7 +13,7 @@ Caso o comando acima mostrar um <b> user.name </b> e o <b> user.email </b> remov
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
-No campo <b> youruserNameGithub <b> troque pelo seu username da sua conta do github 
+No campo <b> youruserNameGithub </b> troque pelo seu username da sua conta do github 
 
 #### Email:
 ~~~
