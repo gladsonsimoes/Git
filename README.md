@@ -1,7 +1,6 @@
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-<p> Guias e comandos básicos do git , caso queira ver mais coisa <b><a href="https://git-scm.com/book/en/v2"> veja o livro do git</a></b></p>
-<hr>
+Manual do git feito por mim com alguns guias para ajudar que está começando e rolando mais abaixo tem os comandos basicamente usado para projetos git
 
 ## Guias:
 
