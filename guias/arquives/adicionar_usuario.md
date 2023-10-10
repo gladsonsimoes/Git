@@ -4,7 +4,7 @@
 ~~~
 git config --list --global
 ~~~
-se caso no comando acima mostrar um <b> user.name </b> e o <b> user.email </b> remova. <a href="remover_usuario.md"> Clique e veja como remover </a>.
+se caso no comando acima mostrar um <b> user.name </b> e o <b> user.email </b> remova. <a href="remover_usuario.md"> Clique e veja como REMOVER A CONTA  </a>.
 <br> mas se não mostrar nada adicione o seu usuário git com o comando abaixo: 
 
 ### adicionando usuário e email que está no seu github
