@@ -19,7 +19,7 @@ no campo youruserNameGithub troque pelo seu username do github
 ~~~
 git config -–global user.email youremail@email.com
 ~~~
-no campo youremail@email.com coloque seu email que será utilizado para os commits <br>
-<b> ATENÇÃO sobre o EMAIL: <b> na parte de configuração de email: https://github.com/settings/emails <b> desmarque <b> a opção <b> Keep my email addresses private <b> com ele marcado os commits não serão efetuado com sucesso!
+no campo <b> youremail@email.com </b> coloque seu email que será utilizado para os commits <br><br>
+<b> ATENÇÃO sobre o EMAIL: </b> na parte de configuração de email: https://github.com/settings/emails <b> desmarque </b> a opção <b> Keep my email addresses private </b> com ele marcado os commits não serão efetuado com sucesso!
 
 
