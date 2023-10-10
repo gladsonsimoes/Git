@@ -8,9 +8,18 @@ Caso o comando acima mostrar um <b> user.name </b> e o <b> user.email </b> remov
 <br> mas se não mostrar nada adicione o seu usuário git com o comando abaixo: 
 
 ### adicionando usuário e email que está no seu github
-~~~
-git config -–global user.email youremail@email.com
-~~~
+
+#### UserName - Nome de usuário github
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
+no campo youruserNameGithub troque pelo seu username do github
+
+#### Email:
+~~~
+git config -–global user.email youremail@email.com
+~~~
+no campo youremail@email.com coloque seu email que será utilizado para os commits <br>
+<b> ATENÇÃO sobre o EMAIL: <b> na parte de configuração de email: https://github.com/settings/emails <b> desmarque <b> a opção <b> Keep my email addresses private <b> com ele marcado os commits não serão efetuado com sucesso!
+
+
