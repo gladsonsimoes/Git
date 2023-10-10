@@ -1,6 +1,6 @@
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-Manual do git feito por mim com alguns guias para ajudar que está começando, mais abaixo tem os comandos basicamente usado para projetos git
+Manual do git feito por mim com alguns guias para ajudar que está começando ou reelembrar de como que usa, mais abaixo tem os comandos basicamente usado para projetos git
 
 ## Guias:
 
