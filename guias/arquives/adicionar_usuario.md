@@ -1,5 +1,8 @@
+# COLOCAR CONTA DO GITHUB NO GIT:
+
 ## Adicionar usuario git global
-### primeiro verifique se já tem um usuário no git:
+
+### primeiro verifique se já tem um usuário github no git:
 ~~~
 git config --list --global
 ~~~
@@ -13,5 +16,20 @@ git config -–global user.email youremail@email.com
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
+---
+# REMOVER CONTA DO GITHUB DO GIT:
 
+## Caso queira remover sua conta git da maquina que esteja usando:
 
+### para remover:
+~~~
+git config --global --unset user.name
+~~~
+~~~
+git config --global --unset user.email
+~~~
+
+### verifique se foi:
+~~~
+git config --list --global
+~~~
