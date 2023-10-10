@@ -27,3 +27,15 @@
 e cole em um lugar seguro (este token pode ser usado como sua senha de autenticação)
 
 ---
+
+6 - configure para que salve sua autheticação:
+
+para permanecer sua authenticação feita com o token no git:
+~~~
+git config --global credential.helper cache
+~~~
+
+caso queira remover sua credencial do git:
+~~~
+git config --global --unset credential.helper
+~~~
