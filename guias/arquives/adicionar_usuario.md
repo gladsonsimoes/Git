@@ -9,11 +9,11 @@ Caso o comando acima mostrar um <b> user.name </b> e o <b> user.email </b> remov
 
 ### adicionando usuário e email que está no seu github
 
-#### UserName - Nome de usuário github
+#### Username
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
-no campo <b> youruserNameGithub <b> troque pelo seu username do github
+No campo <b> youruserNameGithub <b> troque pelo seu username da sua conta do github 
 
 #### Email:
 ~~~
