@@ -16,7 +16,7 @@
 
 ---
 
-## 4 - Depois com a barra de rolagem no final da página clique aparecerá o botão e clique em <b> Generate token </b>
+## 4 - Depois com a barra de rolagem no final da página e clique em <b> Generate token </b>
 <br>
 
 ![Captura de tela de 2023-10-09 21-31-37](https://github.com/gladsonsimoes/Git/assets/99969693/2c234202-ca26-4b39-8f14-4c1987096359)
