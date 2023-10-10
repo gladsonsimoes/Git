@@ -16,6 +16,9 @@ git config -–global user.email youremail@email.com
 ~~~
 git config -–global user.name youruserNameGithub
 ~~~
+
+<br> 
+
 ---
 # REMOVER CONTA DO GITHUB DO GIT:
 
