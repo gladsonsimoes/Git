@@ -34,16 +34,16 @@ para permanecer sua authenticação feita com o token no git (antes da o comando
 
 Permanente:
 ~~~
-git config --global credential.helper store
+git config credential.helper store
 ~~~
 
 Temporário:
 ~~~
-git config --global credential.helper 'cache --timeout=600'
+git config credential.helper 'cache --timeout=600'
 ~~~
 
 
 caso queira remover sua credencial do git:
 ~~~
-git config --global --unset credential.helper
+git config --unset credential.helper
 ~~~
