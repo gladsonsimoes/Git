@@ -30,7 +30,7 @@ e cole em um lugar seguro (este token pode ser usado como sua senha de autentica
 
 6 - configure para que salve sua autheticação:
 
-para permanecer sua authenticação feita com o token no git:
+para permanecer sua authenticação feita com o token no git (antes da o comando de push):
 
 Permanente:
 ~~~
