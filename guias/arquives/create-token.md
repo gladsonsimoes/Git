@@ -23,12 +23,12 @@
 
 ---
 
-5 - Depois copie o seu token no simbolo ![Captura de tela de 2023-10-09 21-33-09](https://github.com/gladsonsimoes/Git/assets/99969693/0710ec10-1945-47f9-a962-16a208b16539)
+## 5 - Depois copie o seu token no simbolo ![Captura de tela de 2023-10-09 21-33-09](https://github.com/gladsonsimoes/Git/assets/99969693/0710ec10-1945-47f9-a962-16a208b16539)
 e cole em um lugar seguro (este token pode ser usado como sua senha de autenticação)
 
 ---
 
-6 -  Salvar autheticação:
+## 6 -  Salvar autheticação:
 
 para permanecer sua authenticação feita com o token no git (antes da o comando de push):
 
