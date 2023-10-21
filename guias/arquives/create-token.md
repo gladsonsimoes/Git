@@ -24,7 +24,7 @@
 ---
 
 ## 5 - Depois copie o seu token no simbolo ![Captura de tela de 2023-10-09 21-33-09](https://github.com/gladsonsimoes/Git/assets/99969693/0710ec10-1945-47f9-a962-16a208b16539)
-e cole em um lugar seguro , pois o token gerado só se ver uma vez (ele continua salvo) , você pode gerar novo código para o token configurado clicando em cima do nome do token e ir na opção "Regenerate Token" 
+e cole em um lugar seguro , pois o token gerado só se ver uma vez (ele continua salvo para ser usado) , você pode gerar novo código para o token configurado clicando em cima do nome do token e ir na opção "Regenerate Token" 
 
 ---
 
