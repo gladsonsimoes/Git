@@ -28,9 +28,9 @@ e cole em um lugar seguro (este token pode ser usado como sua senha de autentica
 
 ---
 
-## 6 -  Salvar autheticação:
+## 6 -  Salvar autenticação:
 
-para permanecer sua authenticação feita com o token no git (antes da o comando de push):
+para permanecer sua autenticação feita com o token no git (antes da o comando de push):
 
 Permanente:
 ~~~
