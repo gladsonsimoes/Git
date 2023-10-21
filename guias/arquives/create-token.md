@@ -32,17 +32,19 @@ e cole em um lugar seguro , pois o token gerado só se ver uma vez (ele continua
 
 para permanecer sua autenticação feita com o token no git , vocẽ tem que colocar estes comandos depois do commit que irá fazer , e depois do comando você finaliza com o push depois ele vai pedir o nome de usuário e a senha (que é o token) , depois disso na proxima vez ele não pede a senha de novo (desde que o tempo do token não tenha expirado):
 
-Salvar autenticação permanentemente:
+#### Salvar autenticação permanentemente:
 ~~~
 git config credential.helper store
 ~~~
 
-Salvar autenticação temporariamente:
+#### Salvar autenticação temporariamente:
 ~~~
 git config credential.helper 'cache --timeout=600'
 ~~~
+---
+Caso queira remover a autenticação:
 
-Remover autenticação:
+#### Remover autenticação:
 ~~~
 git config --unset credential.helper
 ~~~
