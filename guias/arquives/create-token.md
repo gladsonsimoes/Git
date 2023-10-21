@@ -30,7 +30,7 @@ e cole em um lugar seguro , pois o token gerado só se ver uma vez (ele continua
 
 ## 6 -  Salvar autenticação:
 
-para permanecer sua autenticação feita com o token no git (depois do commit coloque o comando):
+para permanecer sua autenticação feita com o token no git , vocẽ tem que colocar estes comandos depois do commit que irá fazer , e depois do comando você finaliza com o push depois ele vai pedir o nome de usuário e a senha (que é o token) , depois disso na proxima vez ele não pede a senha de novo (desde que o tempo do token não tenha expirado):
 
 Salvar autenticação permanentemente:
 ~~~
