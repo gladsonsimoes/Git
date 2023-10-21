@@ -24,26 +24,25 @@
 ---
 
 ## 5 - Depois copie o seu token no simbolo ![Captura de tela de 2023-10-09 21-33-09](https://github.com/gladsonsimoes/Git/assets/99969693/0710ec10-1945-47f9-a962-16a208b16539)
-e cole em um lugar seguro (este token pode ser usado como sua senha de autenticação)
+e cole em um lugar seguro , pois para ver de novo no github tem que gerar outro código do token 
 
 ---
 
 ## 6 -  Salvar autenticação:
 
-para permanecer sua autenticação feita com o token no git (antes da o comando de push):
+para permanecer sua autenticação feita com o token no git (depois do commit coloque o comando):
 
-Permanente:
+Salvar autenticação permanentemente:
 ~~~
 git config credential.helper store
 ~~~
 
-Temporário:
+Salvar autenticação temporariamente:
 ~~~
 git config credential.helper 'cache --timeout=600'
 ~~~
 
-
-caso queira remover sua credencial do git:
+Remover autenticação:
 ~~~
 git config --unset credential.helper
 ~~~
