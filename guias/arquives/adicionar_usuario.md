@@ -23,3 +23,4 @@ no campo <b> youremail@email.com </b> coloque seu email que será utilizado para
 <b> ATENÇÃO sobre o EMAIL: </b> na parte de configuração de email: https://github.com/settings/emails <b> desmarque </b> a opção <b> Keep my email addresses private </b> com ele marcado os commits não serão efetuado com sucesso!
 
 
+
