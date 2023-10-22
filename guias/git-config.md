@@ -13,5 +13,7 @@
 - #### <a href="https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer"> Autenticação por token </a>
 - #### <a href="https://horadecodar.com.br/como-remover-as-credenciais-do-git/"> Remover Credenciais do Git </a>
 
-<!-- - #### <a href=""></a> -->
+<!-- - #### <a href=""></a> 
+https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/
+-->
    
