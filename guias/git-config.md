@@ -3,7 +3,7 @@
 - ### <a href="arquives/remover_usuario.md"> Remover Usuario no git</a>
 
 ## Credencial
-- ### <a href="arquives/create-token.md"> Criar token no github para usar como senha </a>
+- ### <a href="arquives/create-token.md"> Criar token no github para ser usada como senha, e autenticação de conta no git </a>
 
 ## Outhers
 - ### <a href="https://docs.github.com/pt/authentication/managing-commit-signature-verification/signing-commits"> Verificar Commits </a>
