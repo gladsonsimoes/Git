@@ -1,21 +1,8 @@
 <div><h1> Git <img align="right" width="50px" src="img/icons8-git-48.png"></h1></div>
 
-Manual do git feito por mim (alguns são oficial do git) com alguns guias para ajudar que está começando ou reelembrar de como que usa, mais abaixo tem os comandos basicamente usado para projetos git 
+### <a href="https://github.com/gladsonsimoes/Git-Help/wiki"> Wiki com passo a passo </a>
 
-## Guias:
-
-- <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git"><b> Instalar Git </b></a>
-
-- <a href="/guias/git-config.md"><b> Configurar conta de usuario e credenciais no git <b></a>
-
-- <a href="/guias/README.md"><b> Guias básicos para usar o git <b></a>
-
-- <a href="/guias/arquives/remover_alterações_futuras_gitingnore.md"><b>Ignorar alterações futuras no gitignore</b></a>
-<!-- - <a href="comandos/README.md"><b> Ver todos os comandos do git</b> </a> -->
-<!-- - <a href="https://github.com/gladsonsimoes/git/blob/main/Configura%C3%A7%C3%A3o%26Diret%C3%B3rio.md"><b> Configurar conta e comandos de pasta</b></a> -->
-
----
-## Comandos:
+## - Comandos:
 
 #### Criar Repositorio Local:
 - #### <a href="comandos/comandos_de_uso/git_init.md"> Init - Inicializar um repositorio git localmente </a><br>
